@@ -1,0 +1,754 @@
+﻿Log file open, 01/28/18 08:03:33
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ProjectX
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1238221151) SRandInit(-1238221150).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.599266
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ApexDestruction/Binaries/Win64/UE4Editor-ApexDestruction.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ApexDestruction/Binaries/Win64/UE4Editor-ApexDestructionEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.28-00.03.48:772][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.28-00.03.48:772][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.28-00.03.48:853][  0]LogInit: Computer: RAPPY
+[2018.01.28-00.03.48:854][  0]LogInit: User: Ralf
+[2018.01.28-00.03.48:855][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.01.28-00.03.48:855][  0]LogInit: High frequency timer resolution =1.753831 MHz
+[2018.01.28-00.03.48:857][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.01.28-00.03.48:857][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.28-00.03.48:857][  0]LogMemory: Process Physical Memory: 273.14 MB used, 273.14 MB peak
+[2018.01.28-00.03.48:857][  0]LogMemory: Process Virtual Memory: 269.32 MB used, 269.32 MB peak
+[2018.01.28-00.03.48:857][  0]LogMemory: Physical Memory: 4017.27 MB used,  4059.17 MB free, 8076.44 MB total
+[2018.01.28-00.03.48:857][  0]LogMemory: Virtual Memory: 659.63 MB used,  4059.17 MB free, 134217728.00 MB total
+[2018.01.28-00.03.50:450][  0]LogInit: Using OS detected language (en-US).
+[2018.01.28-00.03.50:450][  0]LogInit: Using OS detected locale (en-US).
+[2018.01.28-00.03.50:478][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.01.28-00.03.52:794][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.28-00.03.55:089][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.28-00.03.55:204][  0]LogD3D11RHI:    0. 'AMD Radeon HD 8500M Series' (Feature Level 11_0)
+[2018.01.28-00.03.55:204][  0]LogD3D11RHI:       1003/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2018.01.28-00.03.55:225][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4000' (Feature Level 11_0)
+[2018.01.28-00.03.55:225][  0]LogD3D11RHI:       32/0/1760 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.01.28-00.03.55:249][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.28-00.03.55:250][  0]LogD3D11RHI:       0/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.28-00.03.55:250][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.28-00.03.55:277][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.28-00.03.55:278][  0]LogD3D11RHI:     GPU DeviceId: 0x6601 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.28-00.03.55:278][  0]LogWindows: EnumDisplayDevices:
+[2018.01.28-00.03.55:278][  0]LogWindows:    0. 'Intel(R) HD Graphics 4000' (P:1 D:1)
+[2018.01.28-00.03.55:279][  0]LogWindows:    1. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2018.01.28-00.03.55:280][  0]LogWindows:    2. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2018.01.28-00.03.55:280][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.01.28-00.03.55:281][  0]LogD3D11RHI:     Adapter Name: AMD Radeon HD 8500M Series
+[2018.01.28-00.03.55:281][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.01.28-00.03.55:281][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.01.28-00.03.55:281][  0]LogRHI: Texture pool is 702 MB (70% of 1003 MB)
+[2018.01.28-00.03.55:458][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.28-00.03.55:499][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.01.28-00.03.55:508][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../Users/User/Documents/Unreal Projects/ProjectX/Intermediate/Shaders/WorkingDirectory/9700/).
+[2018.01.28-00.03.55:510][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/A2D2978A41171C87B4F525840857168C/'.
+[2018.01.28-00.03.55:510][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.28-00.04.03:305][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.28-00.04.03:866][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.28-00.04.04:415][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.28-00.04.04:937][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.28-00.04.05:486][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.28-00.04.06:025][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.28-00.04.06:587][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.28-00.04.07:142][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.28-00.04.07:626][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.28-00.04.08:176][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.28-00.04.08:688][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.28-00.04.09:216][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.28-00.04.09:732][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.28-00.04.10:264][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.28-00.04.11:322][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.28-00.04.11:322][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.28-00.04.11:877][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.28-00.04.12:329][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.28-00.04.13:121][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.28-00.04.13:375][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.28-00.04.13:886][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.28-00.04.14:440][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.28-00.04.14:966][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.28-00.04.15:497][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.28-00.04.15:498][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.28-00.04.24:479][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.28-00.04.24:965][  0]LogDerivedDataCache: Loaded boot cache 0.48s 78MB C:/Users/User/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.28-00.04.24:965][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.28-00.04.24:965][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/User/Documents/Unreal Projects/ProjectX/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.28-00.04.24:965][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.28-00.04.24:966][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/User/Documents/Unreal Projects/ProjectX/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.28-00.04.24:966][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.28-00.04.25:099][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.28-00.04.25:129][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.28-00.04.25:213][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.28-00.04.25:214][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.28-00.04.25:218][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.28-00.04.25:218][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.28-00.04.29:862][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.28-00.04.35:748][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.28-00.04.36:831][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.28-00.04.36:831][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.28-00.04.36:831][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.28-00.04.36:831][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.28-00.04.36:831][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.28-00.04.37:743][  0]LogNetVersion: ProjectX , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3096361254)
+[2018.01.28-00.04.40:386][  0]LogAssetRegistry: FAssetRegistry took 0.0848 seconds to start up
+[2018.01.28-00.04.44:863][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.567559 seconds
+[2018.01.28-00.04.44:890][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.01.28-00.04.44:890][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.01.28-00.04.44:890][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.28-00.04.45:400][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.28-00.05.15:192][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.28-00.05.15:566][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.28-00.05.30:256][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.28-00.05.35:779][  0]SourceControl: Source control is disabled
+[2018.01.28-00.05.52:748][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.28-00.05.57:237][  0]LogOcInput: OculusInput pre-init called
+[2018.01.28-00.06.00:395][  0]LogEngine: Initializing Engine...
+[2018.01.28-00.06.00:420][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.28-00.06.01:848][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.28-00.06.01:849][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.28-00.06.03:641][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.28-00.06.03:658][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.28-00.06.03:745][  0]LogInit: FAudioDevice initialized.
+[2018.01.28-00.06.04:060][  0]LogDerivedDataCache: Saved boot cache 0.31s 78MB C:/Users/User/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.28-00.06.04:148][  0]LogInit: Texture streaming: Enabled
+[2018.01.28-00.06.05:138][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.28-00.06.06:432][  0]LogInit: Transaction tracking system initialized
+[2018.01.28-00.06.10:887][  0]BlueprintLog: New page: Editor Load
+[2018.01.28-00.06.24:110][  0]LocalizationService: Localization service is disabled
+[2018.01.28-00.06.36:898][  0]LogConsoleResponse: Display: 
+[2018.01.28-00.06.38:839][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.28-00.06.38:840][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.28-00.06.38:840][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.28-00.06.39:246][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/ProjectX/Content/' took 0.12s
+[2018.01.28-00.06.55:640][  0]Cmd: MAP LOAD FILE="../../../../../../Users/User/Documents/Unreal Projects/ProjectX/Content/Level/Arena.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.28-00.06.55:642][  0]LightingResults: New page: Lighting Build
+[2018.01.28-00.06.56:189][  0]MapCheck: New page: Map Check
+[2018.01.28-00.06.56:189][  0]LightingResults: New page: Lighting Build
+[2018.01.28-00.07.04:666][  0]LogAIModule: Creating AISystem for world Arena
+[2018.01.28-00.07.04:938][  0]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2018.01.28-00.07.05:457][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.28-00.07.06:665][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,207.367ms to complete.
+[2018.01.28-00.07.06:667][  0]LogFileHelpers: Loading map 'Arena' took 11.027
+[2018.01.28-00.07.07:976][  0]LogCollectionManager: Loaded 0 collections in 0.046398 seconds
+[2018.01.28-00.07.08:771][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/ProjectX/Saved/Collections/' took 0.02s
+[2018.01.28-00.07.08:771][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/ProjectX/Content/Developers/Ralf/Collections/' took 0.02s
+[2018.01.28-00.07.08:771][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/ProjectX/Content/Collections/' took 0.02s
+[2018.01.28-00.07.08:771][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.01.28-00.07.08:831][  0]LogContentBrowser: Native class hierarchy populated in 0.0590 seconds. Added 2372 classes and 524 folders.
+[2018.01.28-00.07.09:691][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0014 seconds. Added 0 classes and 0 folders.
+[2018.01.28-00.07.10:337][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0020 seconds. Added 0 classes and 0 folders.
+[2018.01.28-00.07.10:908][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0021 seconds. Added 1 classes and 2 folders.
+[2018.01.28-00.07.11:504][  0]LogSlate: Took 0.001496 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.28-00.07.11:529][  0]LogSlate: Took 0.001631 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.28-00.07.11:579][  0]LogSlate: Took 0.000939 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.28-00.07.12:338][  0]LogRenderer: Reallocating scene render targets to support 620x336 Format 9 NumSamples 1 (Frame:1).
+[2018.01.28-00.07.14:815][  0]LogSlate: Took 0.001748 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.28-00.07.15:830][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0015 seconds. Added 1 classes and 2 folders.
+[2018.01.28-00.07.15:830][  0]LogLoad: (Engine Initialization) Total time: 232.26 seconds
+[2018.01.28-00.07.15:830][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.28-00.07.15:831][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.01.28-00.07.16:227][  0]SourceControl: On branch master
+[2018.01.28-00.07.16:227][  0]SourceControl: Your branch is up to date with 'origin/master'.
+[2018.01.28-00.07.16:227][  0]SourceControl: nothing to commit, working tree clean
+[2018.01.28-00.07.16:272][  0]LogContentStreaming: Texture pool size now 400 MB
+[2018.01.28-00.07.18:454][  3]LogSlate: Took 0.001912 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.28-00.07.21:784][ 13]LogAssetRegistry: Asset discovery search completed in 161.4274 seconds
+[2018.01.28-00.07.21:796][ 13]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.01.28-00.07.21:796][ 13]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000279 seconds (updated 0 objects)
+[2018.01.28-00.16.47:913][ 89]LogSlate: Took 0.000844 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.28-00.16.48:887][ 89]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/User/Desktop/FX IntroSpawn.wav)
+[2018.01.28-00.16.48:897][ 89]Error: Unable to read wave file 'FX_IntroSpawn' - "Unsupported wave file format.  Only PCM, ADPCM, and DVI ADPCM can be imported."
+[2018.01.28-00.16.51:860][ 89]LogAssetTools: Warning: Failed to import '../../../../../../Users/User/Desktop/FX IntroSpawn.wav'. Failed to create asset '/Game/FX/FX_IntroSpawn'.
+Please see Output Log for details.
+[2018.01.28-00.16.52:713][ 89]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/User/Desktop/SFX Destroy.wav)
+[2018.01.28-00.16.52:715][ 89]Error: Unable to read wave file 'SFX_Destroy' - "Unsupported wave file format.  Only PCM, ADPCM, and DVI ADPCM can be imported."
+[2018.01.28-00.16.53:390][ 89]LogAssetTools: Warning: Failed to import '../../../../../../Users/User/Desktop/SFX Destroy.wav'. Failed to create asset '/Game/FX/SFX_Destroy'.
+Please see Output Log for details.
+[2018.01.28-00.16.54:193][ 89]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/User/Desktop/SFX Electro Shock.wav)
+[2018.01.28-00.16.54:197][ 89]Error: Unable to read wave file 'SFX_Electro_Shock' - "Unsupported wave file format.  Only PCM, ADPCM, and DVI ADPCM can be imported."
+[2018.01.28-00.16.54:743][ 89]LogAssetTools: Warning: Failed to import '../../../../../../Users/User/Desktop/SFX Electro Shock.wav'. Failed to create asset '/Game/FX/SFX_Electro_Shock'.
+Please see Output Log for details.
+[2018.01.28-00.16.55:552][ 89]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/User/Desktop/SFX GameOver.wav)
+[2018.01.28-00.16.55:558][ 89]Error: Unable to read wave file 'SFX_GameOver' - "Unsupported wave file format.  Only PCM, ADPCM, and DVI ADPCM can be imported."
+[2018.01.28-00.16.56:159][ 89]LogAssetTools: Warning: Failed to import '../../../../../../Users/User/Desktop/SFX GameOver.wav'. Failed to create asset '/Game/FX/SFX_GameOver'.
+Please see Output Log for details.
+[2018.01.28-00.17.52:243][211]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../../Users/User/Desktop/FX IntroSpawn.wav)
+[2018.01.28-00.17.52:246][211]Error: Unable to read wave file 'FX_IntroSpawn' - "Unsupported wave file format.  Only PCM, ADPCM, and DVI ADPCM can be imported."
+[2018.01.28-00.17.53:722][211]LogAssetTools: Warning: Failed to import '../../../../../../Users/User/Desktop/FX IntroSpawn.wav'. Failed to create asset '/Game/FX/FX_IntroSpawn'.
+Please see Output Log for details.
+[2018.01.28-00.17.54:278][211]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../../Users/User/Desktop/SFX Destroy.wav)
+[2018.01.28-00.17.54:280][211]Error: Unable to read wave file 'SFX_Destroy' - "Unsupported wave file format.  Only PCM, ADPCM, and DVI ADPCM can be imported."
+[2018.01.28-00.17.55:302][211]LogAssetTools: Warning: Failed to import '../../../../../../Users/User/Desktop/SFX Destroy.wav'. Failed to create asset '/Game/FX/SFX_Destroy'.
+Please see Output Log for details.
+[2018.01.28-00.17.55:853][211]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../../Users/User/Desktop/SFX Electro Shock.wav)
+[2018.01.28-00.17.55:855][211]Error: Unable to read wave file 'SFX_Electro_Shock' - "Unsupported wave file format.  Only PCM, ADPCM, and DVI ADPCM can be imported."
+[2018.01.28-00.17.56:419][211]LogAssetTools: Warning: Failed to import '../../../../../../Users/User/Desktop/SFX Electro Shock.wav'. Failed to create asset '/Game/FX/SFX_Electro_Shock'.
+Please see Output Log for details.
+[2018.01.28-00.17.56:970][211]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../../Users/User/Desktop/SFX GameOver.wav)
+[2018.01.28-00.17.56:973][211]Error: Unable to read wave file 'SFX_GameOver' - "Unsupported wave file format.  Only PCM, ADPCM, and DVI ADPCM can be imported."
+[2018.01.28-00.17.57:558][211]LogAssetTools: Warning: Failed to import '../../../../../../Users/User/Desktop/SFX GameOver.wav'. Failed to create asset '/Game/FX/SFX_GameOver'.
+Please see Output Log for details.
+[2018.01.28-00.19.21:052][287]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/User/Desktop/SFX GameOver_2.wav)
+[2018.01.28-00.19.21:089][287]LogAudioDerivedData: Display: Building compressed audio format OGG wave SFX_GameOver_2...
+[2018.01.28-00.19.21:514][287]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/FX/SFX_GameOver_2.SFX_GameOver_2.
+[2018.01.28-00.26.17:155][813]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/User/Desktop/FX IntroSpawn_2.wav)
+[2018.01.28-00.26.17:156][813]Error: Unable to read wave file 'FX_IntroSpawn_2' - "Unsupported wave file format.  Only PCM, ADPCM, and DVI ADPCM can be imported."
+[2018.01.28-00.26.18:381][813]LogAssetTools: Warning: Failed to import '../../../../../../Users/User/Desktop/FX IntroSpawn_2.wav'. Failed to create asset '/Game/FX/FX_IntroSpawn_2'.
+Please see Output Log for details.
+[2018.01.28-00.26.18:940][813]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/User/Desktop/SFX Destroy_2.wav)
+[2018.01.28-00.26.18:941][813]Error: Unable to read wave file 'SFX_Destroy_2' - "Unsupported wave file format.  Only PCM, ADPCM, and DVI ADPCM can be imported."
+[2018.01.28-00.26.20:170][813]LogAssetTools: Warning: Failed to import '../../../../../../Users/User/Desktop/SFX Destroy_2.wav'. Failed to create asset '/Game/FX/SFX_Destroy_2'.
+Please see Output Log for details.
+[2018.01.28-00.26.20:744][813]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/User/Desktop/SFX Fire.wav)
+[2018.01.28-00.26.20:746][813]Error: Unable to read wave file 'SFX_Fire' - "Unsupported wave file format.  Only PCM, ADPCM, and DVI ADPCM can be imported."
+[2018.01.28-00.26.21:586][813]LogAssetTools: Warning: Failed to import '../../../../../../Users/User/Desktop/SFX Fire.wav'. Failed to create asset '/Game/FX/SFX_Fire'.
+Please see Output Log for details.
+[2018.01.28-00.28.01:398][159]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/User/Desktop/SFX Fire2.wav)
+[2018.01.28-00.28.01:423][159]LogAudioDerivedData: Display: Building compressed audio format OGG wave SFX_Fire2...
+[2018.01.28-00.28.01:542][159]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/FX/SFX_Fire2.SFX_Fire2.
+[2018.01.28-00.28.01:982][160]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level/Arena' took 0.095
+[2018.01.28-00.28.02:015][160]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FX/SFX_GameOver_2] ([1] browsable assets)...
+[2018.01.28-00.28.02:059][160]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/FX/SFX_GameOver_2.SFX_GameOver_2]
+[2018.01.28-00.28.02:059][160]OBJ SavePackage: Finished generating thumbnails for package [/Game/FX/SFX_GameOver_2]
+[2018.01.28-00.28.02:122][160]LogSavePackage: Save=42.29ms
+[2018.01.28-00.28.02:122][160]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/ProjectX/Saved/SFX_GameOver_2_Auto1A37ECD034A5ED4EF2658519A6CDA9A9C.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/ProjectX/Saved/Autosaves/Game/FX/SFX_GameOver_2_Auto1.uasset'
+[2018.01.28-00.28.02:150][160]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/ProjectX/Saved/Autosaves/Game/FX/SFX_GameOver_2_Auto1.uasset
+[2018.01.28-00.28.02:170][160]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FX/SFX_Fire2] ([1] browsable assets)...
+[2018.01.28-00.28.02:215][160]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/FX/SFX_Fire2.SFX_Fire2]
+[2018.01.28-00.28.02:215][160]OBJ SavePackage: Finished generating thumbnails for package [/Game/FX/SFX_Fire2]
+[2018.01.28-00.28.02:221][160]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FX/SFX_Fire2" FILE="../../../../../../Users/User/Documents/Unreal Projects/ProjectX/Saved/Autosaves/Game/FX/SFX_Fire2_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.01.28-00.28.02:285][160]LogSavePackage: Save=37.78ms
+[2018.01.28-00.28.02:285][160]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/ProjectX/Saved/SFX_Fire2_Auto10B203BE9441981728FD86F9A4A852E7E.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/ProjectX/Saved/Autosaves/Game/FX/SFX_Fire2_Auto1.uasset'
+[2018.01.28-00.28.02:314][160]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/ProjectX/Saved/Autosaves/Game/FX/SFX_Fire2_Auto1.uasset
+[2018.01.28-00.28.02:314][160]LogFileHelpers: Auto-saving content packages took 0.328
+[2018.01.28-00.29.14:258][477]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/User/Desktop/SFX Destroy2.wav)
+[2018.01.28-00.29.14:285][477]LogAudioDerivedData: Display: Building compressed audio format OGG wave SFX_Destroy2...
+[2018.01.28-00.29.14:469][477]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/FX/SFX_Destroy2.SFX_Destroy2.
+[2018.01.28-00.30.19:154][778]LogHttp: Warning: 0000018AA8851D80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.01.28-00.30.19:154][778]LogHttp: Warning: 0000018AA8851D80: libcurl info message cache 0 (Connection 7 seems to be dead!)
+[2018.01.28-00.30.19:154][778]LogHttp: Warning: 0000018AA8851D80: libcurl info message cache 1 (Closing connection 7)
+[2018.01.28-00.30.19:154][778]LogHttp: Warning: 0000018AA8851D80: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.01.28-00.30.19:154][778]LogHttp: Warning: 0000018AA8851D80: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.01.28-00.30.19:154][778]LogHttp: Warning: 0000018AA8851D80: libcurl info message cache 4 (Closing connection 8)
+[2018.01.28-00.30.42:381][874]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/User/Desktop/FX IntroSpawn.wav)
+[2018.01.28-00.30.42:458][874]LogAudioDerivedData: Display: Building compressed audio format OGG wave FX_IntroSpawn...
+[2018.01.28-00.30.43:539][874]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/FX/FX_IntroSpawn.FX_IntroSpawn.
+[2018.01.28-00.30.52:789][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FX/SFX_Fire2" FILE="../../../../../../Users/User/Documents/Unreal Projects/ProjectX/Content/FX/SFX_Fire2.uasset" SILENT=true
+[2018.01.28-00.30.52:845][ 45]LogSavePackage: Save=38.21ms
+[2018.01.28-00.30.52:845][ 45]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/ProjectX/Saved/SFX_Fire2E93E50224E7FE256B347A7BC1D2B0FB6.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/ProjectX/Content/FX/SFX_Fire2.uasset'
+[2018.01.28-00.30.52:893][ 45]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/ProjectX/Content/FX/SFX_Fire2.uasset
+[2018.01.28-00.30.54:533][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FX/FX_IntroSpawn" FILE="../../../../../../Users/User/Documents/Unreal Projects/ProjectX/Content/FX/FX_IntroSpawn.uasset" SILENT=true
+[2018.01.28-00.30.54:580][ 45]LogSavePackage: Save=34.42ms
+[2018.01.28-00.30.54:580][ 45]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/ProjectX/Saved/FX_IntroSpawnF9128A45450215256B4C0593754C7804.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/ProjectX/Content/FX/FX_IntroSpawn.uasset'
+[2018.01.28-00.30.54:628][ 45]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/ProjectX/Content/FX/FX_IntroSpawn.uasset
+[2018.01.28-00.30.56:857][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FX/SFX_GameOver_2" FILE="../../../../../../Users/User/Documents/Unreal Projects/ProjectX/Content/FX/SFX_GameOver_2.uasset" SILENT=true
+[2018.01.28-00.30.56:907][ 45]LogSavePackage: Save=34.10ms
+[2018.01.28-00.30.56:907][ 45]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/ProjectX/Saved/SFX_GameOver_25ED644564E090C403358669538C9227B.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/ProjectX/Content/FX/SFX_GameOver_2.uasset'
+[2018.01.28-00.30.56:955][ 45]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/ProjectX/Content/FX/SFX_GameOver_2.uasset
+[2018.01.28-00.30.58:697][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FX/SFX_Destroy2" FILE="../../../../../../Users/User/Documents/Unreal Projects/ProjectX/Content/FX/SFX_Destroy2.uasset" SILENT=true
+[2018.01.28-00.30.58:748][ 45]LogSavePackage: Save=31.71ms
+[2018.01.28-00.30.58:748][ 45]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/ProjectX/Saved/SFX_Destroy29EF3E063416F79BA21787AB740F8F105.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/ProjectX/Content/FX/SFX_Destroy2.uasset'
+[2018.01.28-00.30.58:802][ 45]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/ProjectX/Content/FX/SFX_Destroy2.uasset
+[2018.01.28-00.31.11:919][187]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.01.28-00.31.27:056][187]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.01.28-00.31.27:881][187]SourceControl: [master 5549fdf] Added FX folder with FX
+[2018.01.28-00.31.27:882][187]SourceControl:  4 files changed, 0 insertions(+), 0 deletions(-)
+[2018.01.28-00.31.27:882][187]SourceControl:  create mode 100644 Content/FX/FX_IntroSpawn.uasset
+[2018.01.28-00.31.27:883][187]SourceControl:  create mode 100644 Content/FX/SFX_Destroy2.uasset
+[2018.01.28-00.31.27:883][187]SourceControl:  create mode 100644 Content/FX/SFX_Fire2.uasset
+[2018.01.28-00.31.27:883][187]SourceControl:  create mode 100644 Content/FX/SFX_GameOver_2.uasset
+[2018.01.28-00.31.27:922][187]SourceControl: Commited [master 5549fdf] Added FX folder with FX.
+[2018.01.28-00.31.50:346][340]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FirstPerson/Animations/FirstPerson_Run.FirstPerson_Run
+[2018.01.28-00.31.50:348][340]LogAnimationCompression: Recompressing (AnimSequence /Game/FirstPerson/Animations/FirstPerson_Run.FirstPerson_Run) using current/default (AnimCompress_RemoveLinearKeys_6) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.28-00.31.50:603][340]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FirstPerson/Animations/FirstPerson_Idle.FirstPerson_Idle
+[2018.01.28-00.31.50:604][340]LogAnimationCompression: Recompressing (AnimSequence /Game/FirstPerson/Animations/FirstPerson_Idle.FirstPerson_Idle) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.28-00.31.50:744][340]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FirstPerson/Animations/FirstPerson_JumpStart.FirstPerson_JumpStart
+[2018.01.28-00.31.50:745][340]LogAnimationCompression: Recompressing (AnimSequence /Game/FirstPerson/Animations/FirstPerson_JumpStart.FirstPerson_JumpStart) using current/default (AnimCompress_RemoveLinearKeys_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.28-00.31.50:794][340]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FirstPerson/Animations/FirstPerson_JumpLoop.FirstPerson_JumpLoop
+[2018.01.28-00.31.50:794][340]LogAnimationCompression: Recompressing (AnimSequence /Game/FirstPerson/Animations/FirstPerson_JumpLoop.FirstPerson_JumpLoop) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.28-00.31.50:868][340]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FirstPerson/Animations/FirstPerson_JumpEnd.FirstPerson_JumpEnd
+[2018.01.28-00.31.50:869][340]LogAnimationCompression: Recompressing (AnimSequence /Game/FirstPerson/Animations/FirstPerson_JumpEnd.FirstPerson_JumpEnd) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.28-00.31.50:942][340]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FirstPerson/Animations/FirstPerson_Fire.FirstPerson_Fire
+[2018.01.28-00.31.50:943][340]LogAnimationCompression: Recompressing (AnimSequence /Game/FirstPerson/Animations/FirstPerson_Fire.FirstPerson_Fire) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.28-00.31.51:760][340]LogSlate: Took 0.001126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.28-00.31.53:457][340]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0036 seconds. Added 116 classes and 0 folders.
+[2018.01.28-00.31.58:631][340]LogSlate: Took 0.001432 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.28-00.32.00:148][341]LogSlate: Took 0.001834 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.28-00.32.04:302][422]LogRenderer: Reallocating scene render targets to support 620x456 Format 9 NumSamples 1 (Frame:1).
+[2018.01.28-00.34.36:729][628]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset' is outside repository
+[2018.01.28-00.34.36:729][628]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset' is outside repository
+[2018.01.28-00.34.36:729][628]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorBlueprintResources/StandardMacros.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorBlueprintResources/StandardMacros.uasset' is outside repository
+[2018.01.28-00.34.36:729][628]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineSky/BP_Sky_Sphere.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineSky/BP_Sky_Sphere.uasset' is outside repository
+[2018.01.28-00.34.36:729][628]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/WorldGridMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/WorldGridMaterial.uasset' is outside repository
+[2018.01.28-00.34.36:730][628]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/BasicShapes/Cube.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/BasicShapes/Cube.uasset' is outside repository
+[2018.01.28-00.34.36:730][628]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset' is outside repository
+[2018.01.28-00.34.36:730][628]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineFonts/RobotoDistanceField.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineFonts/RobotoDistanceField.uasset' is outside repository
+[2018.01.28-00.34.36:730][628]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset' is outside repository
+[2018.01.28-00.34.36:730][628]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset' is outside repository
+[2018.01.28-00.35.00:060][628]SourceControl: First, rewinding head to replay your work on top of it...
+[2018.01.28-00.35.00:060][628]SourceControl: Applying: 23e23e
+[2018.01.28-00.35.00:060][628]SourceControl: Using index info to reconstruct a base tree...
+[2018.01.28-00.35.00:060][628]SourceControl: M	Config/DefaultEngine.ini
+[2018.01.28-00.35.00:060][628]SourceControl: Falling back to patching base and 3-way merge...
+[2018.01.28-00.35.00:060][628]SourceControl: No changes -- Patch already applied.
+[2018.01.28-00.35.00:123][628]LightingResults: New page: Lighting Build
+[2018.01.28-00.35.00:139][628]MapCheck: New page: Map Check
+[2018.01.28-00.35.00:140][628]LightingResults: New page: Lighting Build
+[2018.01.28-00.35.00:272][628]LogAIModule: Creating AISystem for world Untitled
+[2018.01.28-00.35.00:529][628]LoadErrors: New page: New Map
+[2018.01.28-00.35.02:201][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'GameOver:EventGraph.K2Node_Event_0' in the new package '/Game/UI/GameOver'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.02:201][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'GameOver:EventGraph.K2Node_Event_2' in the new package '/Game/UI/GameOver'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.02:202][628]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'SKEL_GameOver_C:PreConstruct' (transient) in the new package '/Game/UI/GameOver'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.02:202][628]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'SKEL_GameOver_C:Tick' (transient) in the new package '/Game/UI/GameOver'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.02:300][628]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'IC_pawn_C:BoxCollision_ICpawn_GEN_VARIABLE.BodySetup_0' (transient) in the new package '/Game/Mesh/Integrated_Circuit/IC_pawn'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.02:791][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'FirstPerson_Idle:AnimCompress_RemoveLinearKeys_1' in the new package '/Game/FirstPerson/Animations/FirstPerson_Idle'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.02:817][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'FirstPerson_JumpEnd:AnimCompress_RemoveLinearKeys_0' in the new package '/Game/FirstPerson/Animations/FirstPerson_JumpEnd'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.02:849][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'FirstPerson_JumpLoop:AnimCompress_RemoveLinearKeys_0' in the new package '/Game/FirstPerson/Animations/FirstPerson_JumpLoop'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.02:875][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'FirstPerson_JumpStart:AnimCompress_RemoveLinearKeys_0' in the new package '/Game/FirstPerson/Animations/FirstPerson_JumpStart'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.02:900][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'FirstPerson_Run:AnimCompress_RemoveLinearKeys_0' in the new package '/Game/FirstPerson/Animations/FirstPerson_Run'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.03:173][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'FirstPerson_Fire:AnimCompress_BitwiseCompressOnly_0' in the new package '/Game/FirstPerson/Animations/FirstPerson_Fire'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.04:414][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter_C:InpActEvt_Jump_K2Node_InputActionEvent_4' in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.04:414][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter_C:InpActEvt_Jump_K2Node_InputActionEvent_3' in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.04:414][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter_C:ReceiveBeginPlay' in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.04:414][628]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter_C:Sphere_GEN_VARIABLE.BodySetup_1' (transient) in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.04:414][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter:EventGraph.K2Node_Event_0' in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.04:414][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter:EventGraph.K2Node_SpawnActorFromClass_8' in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.04:415][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter:EventGraph.K2Node_CallFunction_385' in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.04:415][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter:EventGraph.K2Node_VariableGet_1747' in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.04:415][628]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter:ReceiveBeginPlay' (transient) in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.04:415][628]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter:InpActEvt_Jump_K2Node_InputActionEvent_3' (transient) in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.04:415][628]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter:InpActEvt_Jump_K2Node_InputActionEvent_4' (transient) in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.04:415][628]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'Default__FirstPersonCharacter_C:CollisionCylinder.BodySetup_0' (transient) in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.04:415][628]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'SKEL_FirstPersonCharacter_C:ReceiveBeginPlay' (transient) in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.05:147][628]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'SpawnPoint_C:Box_GEN_VARIABLE.BodySetup_0' (transient) in the new package '/Game/AI/SpawnPoint'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.06:008][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'Easy:EventGraph.K2Node_DynamicCast_106' in the new package '/Game/AI/Easy'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.06:008][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'Easy:EventGraph.K2Node_CallFunction_2577' in the new package '/Game/AI/Easy'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.06:009][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'Easy:EventGraph.K2Node_IfThenElse_107' in the new package '/Game/AI/Easy'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.06:009][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'Easy:EventGraph.K2Node_VariableGet_125' in the new package '/Game/AI/Easy'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.06:009][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'Easy:EventGraph.K2Node_CallFunction_2578' in the new package '/Game/AI/Easy'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.06:009][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'Easy:EventGraph.K2Node_VariableSet_111' in the new package '/Game/AI/Easy'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.06:009][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'Easy:EventGraph.K2Node_CommutativeAssociativeBinaryOperator_96' in the new package '/Game/AI/Easy'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.06:009][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'Easy:EventGraph.K2Node_VariableGet_126' in the new package '/Game/AI/Easy'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.06:009][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'Easy:EventGraph.K2Node_CallFunction_2579' in the new package '/Game/AI/Easy'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.06:010][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'Easy:EventGraph.K2Node_DynamicCast_107' in the new package '/Game/AI/Easy'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.06:010][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'Easy:EventGraph.K2Node_CallFunction_2580' in the new package '/Game/AI/Easy'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.06:010][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'Easy:EventGraph.K2Node_IfThenElse_108' in the new package '/Game/AI/Easy'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.06:010][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'Easy:EventGraph.K2Node_VariableGet_127' in the new package '/Game/AI/Easy'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.06:010][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'Easy:EventGraph.K2Node_CallFunction_2581' in the new package '/Game/AI/Easy'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.06:010][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'Easy:EventGraph.K2Node_VariableSet_112' in the new package '/Game/AI/Easy'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.06:010][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'Easy:EventGraph.K2Node_CommutativeAssociativeBinaryOperator_97' in the new package '/Game/AI/Easy'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.06:010][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'Easy:EventGraph.K2Node_DynamicCast_108' in the new package '/Game/AI/Easy'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.06:010][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'Easy:EventGraph.K2Node_CallFunction_2583' in the new package '/Game/AI/Easy'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.06:010][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'Easy:EventGraph.K2Node_IfThenElse_109' in the new package '/Game/AI/Easy'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.06:011][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'Easy:EventGraph.K2Node_VariableGet_129' in the new package '/Game/AI/Easy'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.06:011][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'Easy:EventGraph.K2Node_CallFunction_2584' in the new package '/Game/AI/Easy'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.06:011][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'Easy:EventGraph.K2Node_VariableSet_113' in the new package '/Game/AI/Easy'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.06:011][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'Easy:EventGraph.K2Node_CommutativeAssociativeBinaryOperator_98' in the new package '/Game/AI/Easy'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.06:011][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'Easy:EventGraph.K2Node_DynamicCast_95' in the new package '/Game/AI/Easy'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.06:011][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'Easy:EventGraph.K2Node_CallFunction_2255' in the new package '/Game/AI/Easy'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.06:011][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'Easy:EventGraph.K2Node_IfThenElse_94' in the new package '/Game/AI/Easy'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.06:011][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'Easy:EventGraph.K2Node_VariableGet_103' in the new package '/Game/AI/Easy'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.06:011][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'Easy:EventGraph.K2Node_CallFunction_2497' in the new package '/Game/AI/Easy'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.06:011][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'Easy:EventGraph.K2Node_VariableSet_105' in the new package '/Game/AI/Easy'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.06:012][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'Easy:EventGraph.K2Node_CommutativeAssociativeBinaryOperator_85' in the new package '/Game/AI/Easy'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.06:012][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'Easy:EventGraph.K2Node_CallFunction_2586' in the new package '/Game/AI/Easy'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.06:012][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'Easy:EventGraph.K2Node_CallFunction_2772' in the new package '/Game/AI/Easy'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.06:012][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'Easy:EventGraph.K2Node_CallFunction_2773' in the new package '/Game/AI/Easy'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.06:012][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'Easy:EventGraph.K2Node_VariableGet_294' in the new package '/Game/AI/Easy'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.06:012][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'Easy:EventGraph.K2Node_VariableGet_295' in the new package '/Game/AI/Easy'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.06:012][628]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'Easy:EventGraph.K2Node_VariableGet_296' in the new package '/Game/AI/Easy'. Any existing references to this object will be nulled out.
+[2018.01.28-00.35.09:933][628]LogActorComponent: UnregisterComponent: (/Engine/Transient.DirectionalLightComponent_6) Not registered. Aborting.
+[2018.01.28-00.35.09:933][628]LogActorComponent: UnregisterComponent: (/Engine/Transient.SkyLightComponent_2) Not registered. Aborting.
+[2018.01.28-00.35.09:933][628]LogActorComponent: UnregisterComponent: (/Engine/Transient.LineBatchComponent_17) Not registered. Aborting.
+[2018.01.28-00.35.09:933][628]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.01.28-00.35.10:619][628]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	FirstPerson_AnimBP_C /Engine/Transient.World_3:PersistentLevel.FirstPersonCharacter_C_0.Mesh1P.FirstPerson_AnimBP_C_4
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0288
+[2018.01.28-00.35.22:543][628]LogAIModule: Creating AISystem for world Arena
+[2018.01.28-00.35.22:763][628]Cmd: MAP LOAD FILE="../../../../../../Users/User/Documents/Unreal Projects/ProjectX/Content/Level/Arena.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.28-00.35.22:763][628]LightingResults: New page: Lighting Build
+[2018.01.28-00.35.22:766][628]LoadErrors: New page: Loading map: Arena.umap
+[2018.01.28-00.35.22:767][628]MapCheck: New page: Map Check
+[2018.01.28-00.35.22:767][628]LightingResults: New page: Lighting Build
+[2018.01.28-00.35.23:372][628]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2018.01.28-00.35.23:596][628]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.28-00.35.24:276][628]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 679.58ms to complete.
+[2018.01.28-00.35.24:283][628]LogFileHelpers: Loading map 'Arena' took 1.524
+[2018.01.28-00.36.16:837][ 58]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	FirstPerson_AnimBP_C /Engine/Transient.World_3:PersistentLevel.FirstPersonCharacter_C_0.Mesh1P.FirstPerson_AnimBP_C_1
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0288
+[2018.01.28-00.36.16:843][ 58]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	FirstPerson_AnimBP_C /Engine/Transient.World_3:PersistentLevel.FirstPersonCharacter_C_0.Mesh1P.FirstPerson_AnimBP_C_1
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0288
+[2018.01.28-00.37.11:317][ 34]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0015 seconds. Added 1 classes and 2 folders.
+[2018.01.28-00.37.12:229][ 34]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.01.28-00.37.12:375][ 34]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.01.28-00.37.13:829][ 34]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0009 seconds. Added 1 classes and 0 folders.
+[2018.01.28-00.37.13:844][ 35]LogRenderer: Reallocating scene render targets to support 620x568 Format 9 NumSamples 1 (Frame:1).
+[2018.01.28-00.37.17:535][148]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.01.28-00.37.17:642][148]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) - call TermArticulated first.
+[2018.01.28-00.37.19:010][149]LogRenderer: Reallocating scene render targets to support 652x568 Format 9 NumSamples 1 (Frame:1).
+[2018.01.28-00.37.28:605][417]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.Actor_2.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.01.28-00.37.28:708][417]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_11:PersistentLevel.Actor_2.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2018.01.28-00.37.30:144][417]LogRenderer: Reallocating scene render targets to support 760x568 Format 9 NumSamples 1 (Frame:1).
+[2018.01.28-00.37.30:144][417]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-00.37.51:707][ 15]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.01.28-00.37.52:006][ 15]LogBlueprint: Error: [Compiler FirstPersonCharacter] This blueprint (self) is not a ActorComponent, therefore ' Target ' must have a connection.
+[2018.01.28-00.37.52:006][ 15]LogBlueprint: Error: [Compiler FirstPersonCharacter] This blueprint (self) is not a ActorComponent, therefore ' Target ' must have a connection.
+[2018.01.28-00.37.53:547][ 15]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [2069.98] Compile of FirstPersonCharacter failed. 2 Fatal Issue(s) 0 Warning(s) [in 1,839 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2018.01.28-00.38.10:057][384]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-00.38.10:693][384]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Level/Arena.Arena_C' with ClassGeneratedBy '/Game/Level/Arena.Arena:PersistentLevel.Arena'
+[2018.01.28-00.38.10:694][384]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.28-00.38.10:810][384]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2018.01.28-00.38.11:611][384]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	FirstPerson_AnimBP_C /Engine/Transient.World_3:PersistentLevel.FirstPersonCharacter_C_0.Mesh1P.FirstPerson_AnimBP_C_4
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0288
+[2018.01.28-00.38.12:903][384]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	FirstPerson_AnimBP_C /Engine/Transient.World_3:PersistentLevel.FirstPersonCharacter_C_0.Mesh1P.FirstPerson_AnimBP_C_6
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0288
+[2018.01.28-00.38.12:908][384]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	FirstPerson_AnimBP_C /Engine/Transient.World_3:PersistentLevel.FirstPersonCharacter_C_0.Mesh1P.FirstPerson_AnimBP_C_6
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0288
+[2018.01.28-00.38.13:080][384]LogPlayLevel: PlayLevel: Blueprint regeneration took 2386 ms (1 blueprints)
+[2018.01.28-00.38.13:084][384]PIE: New page: PIE session: Arena (Jan 28, 2018, 4:38:13 PM)
+[2018.01.28-00.38.13:087][384]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Arena
+[2018.01.28-00.38.13:245][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.158417s)
+[2018.01.28-00.38.13:249][384]LogAIModule: Creating AISystem for world Arena
+[2018.01.28-00.38.13:250][384]LogPlayLevel: PIE: World Init took: (0.004139s)
+[2018.01.28-00.38.13:252][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Arena.Arena to /Game/Level/UEDPIE_0_Arena.Arena (0.165050s)
+[2018.01.28-00.38.13:395][384]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.28-00.38.13:466][384]LogInit: FAudioDevice initialized.
+[2018.01.28-00.38.13:782][384]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.28-00.38.13:846][384]LogWorld: Bringing World /Game/Level/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2018.01.28-08.38.13
+[2018.01.28-00.38.13:857][384]LogWorld: Bringing up level for play took: 0.071429
+[2018.01.28-00.38.14:313][384]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0025 seconds. Added 11 classes and 0 folders.
+[2018.01.28-00.38.14:333][384]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Arena 4.341
+[2018.01.28-00.38.14:335][384]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Level/Arena.Arena_C' with ClassGeneratedBy '/Game/Level/Arena.Arena:PersistentLevel.Arena'
+[2018.01.28-00.38.28:254][769]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2018.01.28-00.38.30:236][816]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2018.01.28-00.38.30:290][817]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Level/Arena.Arena_C' with ClassGeneratedBy '/Game/Level/Arena.Arena:PersistentLevel.Arena'
+[2018.01.28-00.38.30:370][817]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Level/Arena.Arena_C' with ClassGeneratedBy '/Game/Level/Arena.Arena:PersistentLevel.Arena'
+[2018.01.28-00.38.41:445][124]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.01.28-00.38.42:204][124]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	FirstPerson_AnimBP_C /Engine/Transient.World_3:PersistentLevel.FirstPersonCharacter_C_0.Mesh1P.FirstPerson_AnimBP_C_8
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0288
+[2018.01.28-00.38.43:238][124]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	FirstPerson_AnimBP_C /Engine/Transient.World_3:PersistentLevel.FirstPersonCharacter_C_0.Mesh1P.FirstPerson_AnimBP_C_10
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0288
+[2018.01.28-00.38.43:241][124]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	FirstPerson_AnimBP_C /Engine/Transient.World_3:PersistentLevel.FirstPersonCharacter_C_0.Mesh1P.FirstPerson_AnimBP_C_10
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0288
+[2018.01.28-00.38.55:139][371]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	FirstPerson_AnimBP_C /Engine/Transient.World_3:PersistentLevel.FirstPersonCharacter_C_0.Mesh1P.FirstPerson_AnimBP_C_10
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0288
+[2018.01.28-00.38.55:142][371]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	FirstPerson_AnimBP_C /Engine/Transient.World_3:PersistentLevel.FirstPersonCharacter_C_0.Mesh1P.FirstPerson_AnimBP_C_13
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0288
+[2018.01.28-00.38.55:147][371]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	FirstPerson_AnimBP_C /Engine/Transient.World_3:PersistentLevel.FirstPersonCharacter_C_0.Mesh1P.FirstPerson_AnimBP_C_14
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0288
+[2018.01.28-00.38.55:153][371]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	FirstPerson_AnimBP_C /Engine/Transient.World_3:PersistentLevel.FirstPersonCharacter_C_0.Mesh1P.FirstPerson_AnimBP_C_14
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0288
+[2018.01.28-00.38.56:330][399]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.01.28-00.38.57:086][399]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	FirstPerson_AnimBP_C /Engine/Transient.World_3:PersistentLevel.FirstPersonCharacter_C_0.Mesh1P.FirstPerson_AnimBP_C_16
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0288
+[2018.01.28-00.38.58:105][399]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	FirstPerson_AnimBP_C /Engine/Transient.World_3:PersistentLevel.FirstPersonCharacter_C_0.Mesh1P.FirstPerson_AnimBP_C_18
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0288
+[2018.01.28-00.38.58:109][399]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	FirstPerson_AnimBP_C /Engine/Transient.World_3:PersistentLevel.FirstPersonCharacter_C_0.Mesh1P.FirstPerson_AnimBP_C_18
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0288
+[2018.01.28-00.39.00:705][417]LogSavePackage: Save=749.30ms
+[2018.01.28-00.39.00:705][417]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/ProjectX/Saved/FirstPersonCharacter69D0C9D44F0DF2595D6A05BACB83BF48.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/ProjectX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.01.28-00.39.00:746][417]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/ProjectX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.01.28-00.39.03:218][480]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-00.39.03:293][480]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Level/Arena.Arena_C' with ClassGeneratedBy '/Game/Level/Arena.Arena:PersistentLevel.Arena'
+[2018.01.28-00.39.03:293][480]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-00.39.03:294][480]PIE: New page: PIE session: Arena (Jan 28, 2018, 4:39:03 PM)
+[2018.01.28-00.39.03:296][480]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Arena
+[2018.01.28-00.39.03:437][480]LogPlayLevel: PIE: StaticDuplicateObject took: (0.141537s)
+[2018.01.28-00.39.03:440][480]LogAIModule: Creating AISystem for world Arena
+[2018.01.28-00.39.03:441][480]LogPlayLevel: PIE: World Init took: (0.003619s)
+[2018.01.28-00.39.03:442][480]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Arena.Arena to /Game/Level/UEDPIE_0_Arena.Arena (0.146855s)
+[2018.01.28-00.39.03:557][480]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.28-00.39.03:610][480]LogInit: FAudioDevice initialized.
+[2018.01.28-00.39.03:666][480]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.28-00.39.03:712][480]LogWorld: Bringing World /Game/Level/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2018.01.28-08.39.03
+[2018.01.28-00.39.03:714][480]LogWorld: Bringing up level for play took: 0.045572
+[2018.01.28-00.39.03:726][480]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Arena -0.267
+[2018.01.28-00.39.03:727][480]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Level/Arena.Arena_C' with ClassGeneratedBy '/Game/Level/Arena.Arena:PersistentLevel.Arena'
+[2018.01.28-00.39.13:698][789]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Level/Arena.Arena_C' with ClassGeneratedBy '/Game/Level/Arena.Arena:PersistentLevel.Arena'
+[2018.01.28-00.39.13:771][789]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Level/Arena.Arena_C' with ClassGeneratedBy '/Game/Level/Arena.Arena:PersistentLevel.Arena'
+[2018.01.28-00.39.19:567][948]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.Actor_3.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.01.28-00.39.19:669][948]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.Actor_3.DebugSkelMeshComponent_4) - call TermArticulated first.
+[2018.01.28-00.39.21:206][948]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-00.39.47:443][650]LogSavePackage: Save=26.60ms
+[2018.01.28-00.39.47:444][650]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/ProjectX/Saved/SK_Mannequin_Arms_Skeleton617BB9F940A04B5F6BB66E8E3ECA58AA.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/ProjectX/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset'
+[2018.01.28-00.39.47:484][650]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/ProjectX/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset
+[2018.01.28-00.39.50:605][736]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-00.39.50:681][736]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Level/Arena.Arena_C' with ClassGeneratedBy '/Game/Level/Arena.Arena:PersistentLevel.Arena'
+[2018.01.28-00.39.50:682][736]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-00.39.50:682][736]PIE: New page: PIE session: Arena (Jan 28, 2018, 4:39:50 PM)
+[2018.01.28-00.39.50:684][736]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Arena
+[2018.01.28-00.39.50:809][736]LogPlayLevel: PIE: StaticDuplicateObject took: (0.124251s)
+[2018.01.28-00.39.50:811][736]LogAIModule: Creating AISystem for world Arena
+[2018.01.28-00.39.50:812][736]LogPlayLevel: PIE: World Init took: (0.003235s)
+[2018.01.28-00.39.50:813][736]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Arena.Arena to /Game/Level/UEDPIE_0_Arena.Arena (0.128912s)
+[2018.01.28-00.39.50:912][736]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.28-00.39.50:966][736]LogInit: FAudioDevice initialized.
+[2018.01.28-00.39.51:019][736]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.28-00.39.51:068][736]LogWorld: Bringing World /Game/Level/UEDPIE_0_Arena.Arena up for play (max tick rate 60) at 2018.01.28-08.39.51
+[2018.01.28-00.39.51:071][736]LogWorld: Bringing up level for play took: 0.049556
+[2018.01.28-00.39.51:084][736]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Arena 1.091
+[2018.01.28-00.39.51:085][736]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Level/Arena.Arena_C' with ClassGeneratedBy '/Game/Level/Arena.Arena:PersistentLevel.Arena'
+[2018.01.28-00.40.03:750][112]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2018.01.28-00.40.04:141][122]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Level/Arena.Arena_C' with ClassGeneratedBy '/Game/Level/Arena.Arena:PersistentLevel.Arena'
+[2018.01.28-00.40.04:218][122]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Level/Arena.Arena_C' with ClassGeneratedBy '/Game/Level/Arena.Arena:PersistentLevel.Arena'
+[2018.01.28-00.40.27:692][688]LogSavePackage: Save=20.09ms
+[2018.01.28-00.40.27:692][688]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/ProjectX/Saved/SK_Mannequin_Arms_Skeleton0C39F8E545B92EE90247EDBCD929CD56.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/ProjectX/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset'
+[2018.01.28-00.40.27:729][688]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/ProjectX/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset
+[2018.01.28-00.40.30:911][778]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-00.40.30:980][778]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Level/Arena.Arena_C' with ClassGeneratedBy '/Game/Level/Arena.Arena:PersistentLevel.Arena'
+[2018.01.28-00.40.30:981][778]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-00.40.30:982][778]PIE: New page: PIE session: Arena (Jan 28, 2018, 4:40:30 PM)
+[2018.01.28-00.40.30:983][778]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Arena
+[2018.01.28-00.40.31:109][778]LogPlayLevel: PIE: StaticDuplicateObject took: (0.125393s)
+[2018.01.28-00.40.31:111][778]LogAIModule: Creating AISystem for world Arena
+[2018.01.28-00.40.31:112][778]LogPlayLevel: PIE: World Init took: (0.003248s)
+[2018.01.28-00.40.31:113][778]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Arena.Arena to /Game/Level/UEDPIE_0_Arena.Arena (0.130287s)
+[2018.01.28-00.40.31:218][778]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.28-00.40.31:271][778]LogInit: FAudioDevice initialized.
+[2018.01.28-00.40.31:326][778]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.28-00.40.31:372][778]LogWorld: Bringing World /Game/Level/UEDPIE_0_Arena.Arena up for play (max tick rate 60) at 2018.01.28-08.40.31
+[2018.01.28-00.40.31:375][778]LogWorld: Bringing up level for play took: 0.046367
+[2018.01.28-00.40.31:386][778]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Arena 1.394
+[2018.01.28-00.40.31:388][778]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Level/Arena.Arena_C' with ClassGeneratedBy '/Game/Level/Arena.Arena:PersistentLevel.Arena'
+[2018.01.28-00.40.44:025][143]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2018.01.28-00.40.44:979][167]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2018.01.28-00.40.45:167][171]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Level/Arena.Arena_C' with ClassGeneratedBy '/Game/Level/Arena.Arena:PersistentLevel.Arena'
+[2018.01.28-00.40.45:243][171]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Level/Arena.Arena_C' with ClassGeneratedBy '/Game/Level/Arena.Arena:PersistentLevel.Arena'
+[2018.01.28-00.40.57:150][445]LogSavePackage: Save=20.28ms
+[2018.01.28-00.40.57:151][445]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/ProjectX/Saved/SK_Mannequin_Arms_SkeletonCED1CAB54991701A3280A4844651C984.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/ProjectX/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset'
+[2018.01.28-00.40.57:187][445]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/ProjectX/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset
+[2018.01.28-00.40.59:491][506]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-00.40.59:564][506]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Level/Arena.Arena_C' with ClassGeneratedBy '/Game/Level/Arena.Arena:PersistentLevel.Arena'
+[2018.01.28-00.40.59:565][506]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-00.40.59:565][506]PIE: New page: PIE session: Arena (Jan 28, 2018, 4:40:59 PM)
+[2018.01.28-00.40.59:567][506]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Arena
+[2018.01.28-00.40.59:695][506]LogPlayLevel: PIE: StaticDuplicateObject took: (0.127264s)
+[2018.01.28-00.40.59:698][506]LogAIModule: Creating AISystem for world Arena
+[2018.01.28-00.40.59:699][506]LogPlayLevel: PIE: World Init took: (0.003926s)
+[2018.01.28-00.40.59:700][506]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Arena.Arena to /Game/Level/UEDPIE_0_Arena.Arena (0.132801s)
+[2018.01.28-00.40.59:808][506]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.28-00.40.59:863][506]LogInit: FAudioDevice initialized.
+[2018.01.28-00.40.59:914][506]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.28-00.40.59:961][506]LogWorld: Bringing World /Game/Level/UEDPIE_0_Arena.Arena up for play (max tick rate 60) at 2018.01.28-08.40.59
+[2018.01.28-00.40.59:963][506]LogWorld: Bringing up level for play took: 0.047270
+[2018.01.28-00.40.59:975][506]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Arena -0.017
+[2018.01.28-00.40.59:977][506]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Level/Arena.Arena_C' with ClassGeneratedBy '/Game/Level/Arena.Arena:PersistentLevel.Arena'
+[2018.01.28-00.41.12:827][884]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2018.01.28-00.41.13:007][888]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Level/Arena.Arena_C' with ClassGeneratedBy '/Game/Level/Arena.Arena:PersistentLevel.Arena'
+[2018.01.28-00.41.13:097][888]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Level/Arena.Arena_C' with ClassGeneratedBy '/Game/Level/Arena.Arena:PersistentLevel.Arena'
+[2018.01.28-00.41.19:472][ 42]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.01.28-00.41.39:716][ 42]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.01.28-00.41.40:736][ 42]SourceControl: [master f330381] FPSgun rescaled
+[2018.01.28-00.41.40:736][ 42]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2018.01.28-00.41.40:737][ 42]SourceControl:  rewrite Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset (80%)
+[2018.01.28-00.41.40:760][ 42]SourceControl: Commited [master f330381] FPSgun rescaled.
