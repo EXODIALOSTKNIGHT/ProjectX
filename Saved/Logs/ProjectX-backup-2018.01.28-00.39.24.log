@@ -1,0 +1,1810 @@
+﻿Log file open, 01/27/18 22:32:23
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ProjectX
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(534647731) SRandInit(534647731).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.612368
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ApexDestruction/Binaries/Win64/UE4Editor-ApexDestruction.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ApexDestruction/Binaries/Win64/UE4Editor-ApexDestructionEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.27-14.32.29:841][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.27-14.32.29:841][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.27-14.32.30:058][  0]LogInit: Computer: DESKTOP-M61K5TJ
+[2018.01.27-14.32.30:058][  0]LogInit: User: PC9
+[2018.01.27-14.32.30:058][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.01.27-14.32.30:058][  0]LogInit: High frequency timer resolution =3.125010 MHz
+[2018.01.27-14.32.30:071][  0]LogMemory: Memory total: Physical=3.9GB (4GB approx)
+[2018.01.27-14.32.30:071][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.27-14.32.30:071][  0]LogMemory: Process Physical Memory: 272.64 MB used, 272.64 MB peak
+[2018.01.27-14.32.30:071][  0]LogMemory: Process Virtual Memory: 269.21 MB used, 269.21 MB peak
+[2018.01.27-14.32.30:071][  0]LogMemory: Physical Memory: 1756.71 MB used,  2283.31 MB free, 4040.02 MB total
+[2018.01.27-14.32.30:071][  0]LogMemory: Virtual Memory: 641.43 MB used,  2283.31 MB free, 134217728.00 MB total
+[2018.01.27-14.32.31:391][  0]LogInit: Using OS detected language (en-US).
+[2018.01.27-14.32.31:391][  0]LogInit: Using OS detected locale (en-US).
+[2018.01.27-14.32.31:624][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.01.27-14.32.33:597][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.27-14.32.37:490][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.27-14.32.37:534][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 750 Ti' (Feature Level 11_0)
+[2018.01.27-14.32.37:534][  0]LogD3D11RHI:       2007/0/2020 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.01.27-14.32.37:562][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.27-14.32.37:562][  0]LogD3D11RHI:       0/0/2020 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.27-14.32.37:562][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.27-14.32.37:566][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.27-14.32.37:566][  0]LogD3D11RHI:     GPU DeviceId: 0x1380 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.27-14.32.37:566][  0]LogWindows: EnumDisplayDevices:
+[2018.01.27-14.32.37:566][  0]LogWindows:    0. 'NVIDIA GeForce GTX 750 Ti' (P:1 D:1)
+[2018.01.27-14.32.37:582][  0]LogWindows:    1. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2018.01.27-14.32.37:582][  0]LogWindows:    2. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2018.01.27-14.32.37:582][  0]LogWindows:    3. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2018.01.27-14.32.37:582][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.01.27-14.32.37:582][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 750 Ti
+[2018.01.27-14.32.37:582][  0]LogD3D11RHI:   Driver Version: 390.65 (internal:23.21.13.9065, unified:390.65)
+[2018.01.27-14.32.37:582][  0]LogD3D11RHI:      Driver Date: 1-3-2018
+[2018.01.27-14.32.37:582][  0]LogRHI: Texture pool is 1405 MB (70% of 2007 MB)
+[2018.01.27-14.32.37:649][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.27-14.32.38:007][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.01.27-14.32.38:132][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (../../../../../../Users/PC9/Documents/GitHub/ProjectX/Intermediate/Shaders/WorkingDirectory/2688/).
+[2018.01.27-14.32.38:132][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/PC9/AppData/Local/Temp/UnrealShaderWorkingDir/376BD35942FAAEC0BA0804A710C54CB5/'.
+[2018.01.27-14.32.38:149][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.27-14.32.46:049][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.27-14.32.46:107][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.27-14.32.46:161][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.27-14.32.46:229][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.27-14.32.46:325][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.27-14.32.46:389][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.27-14.32.46:442][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.27-14.32.46:499][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.27-14.32.46:543][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.27-14.32.46:607][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.27-14.32.46:664][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.27-14.32.46:722][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.27-14.32.46:773][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.27-14.32.46:829][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.27-14.32.46:992][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.27-14.32.46:992][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.27-14.32.47:086][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.27-14.32.47:127][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.27-14.32.47:287][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.27-14.32.47:326][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.27-14.32.47:390][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.27-14.32.47:443][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.27-14.32.47:494][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.27-14.32.47:571][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.27-14.32.47:571][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.27-14.32.48:694][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.27-14.32.49:605][  0]LogDerivedDataCache: Loaded boot cache 0.90s 78MB C:/Users/PC9/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.27-14.32.49:605][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/PC9/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.27-14.32.49:605][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/PC9/Documents/GitHub/ProjectX/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.27-14.32.49:606][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.27-14.32.49:606][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/PC9/Documents/GitHub/ProjectX/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.27-14.32.49:606][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.27-14.32.49:691][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.27-14.32.49:720][  0]LogDerivedDataCache: Using Local data cache path C:/Users/PC9/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.27-14.32.49:810][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.27-14.32.49:931][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.27-14.32.50:025][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.27-14.32.50:027][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.27-14.32.55:617][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.27-14.32.57:408][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.27-14.32.57:452][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.27-14.32.57:452][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.27-14.32.57:452][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.27-14.32.57:452][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.27-14.32.57:452][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.27-14.32.57:871][  0]LogNetVersion: ProjectX , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3096361254)
+[2018.01.27-14.33.02:821][  0]LogAssetRegistry: FAssetRegistry took 0.1032 seconds to start up
+[2018.01.27-14.33.09:167][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.177736 seconds
+[2018.01.27-14.33.09:179][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.01.27-14.33.09:179][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.01.27-14.33.09:179][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.27-14.33.09:275][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.27-14.33.22:412][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.27-14.33.22:496][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.27-14.33.24:965][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.27-14.33.26:171][  0]SourceControl: Source control is disabled
+[2018.01.27-14.33.29:377][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.27-14.33.29:734][  0]LogOcInput: OculusInput pre-init called
+[2018.01.27-14.33.30:697][  0]LogEngine: Initializing Engine...
+[2018.01.27-14.33.30:854][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.27-14.33.32:070][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.27-14.33.32:181][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.038 s
+[2018.01.27-14.33.32:721][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.27-14.33.32:911][  0]LogInit: No audio devices found!
+[2018.01.27-14.33.33:606][  0]LogDerivedDataCache: Saved boot cache 0.69s 78MB C:/Users/PC9/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.27-14.33.33:643][  0]LogInit: Texture streaming: Enabled
+[2018.01.27-14.33.33:876][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.27-14.33.33:877][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={64544BDC-46A8-599D-5745-B69E95C69B34}
+[2018.01.27-14.33.35:091][  0]LogInit: Transaction tracking system initialized
+[2018.01.27-14.33.37:134][  0]BlueprintLog: New page: Editor Load
+[2018.01.27-14.33.41:824][  0]LocalizationService: Localization service is disabled
+[2018.01.27-14.33.43:564][  0]LogConsoleResponse: Display: 
+[2018.01.27-14.33.47:587][  0]LogFileCache: Scanning file cache for directory 'C:/Users/PC9/Documents/GitHub/ProjectX/Content/' took 0.02s
+[2018.01.27-14.33.47:587][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.27-14.33.47:588][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.27-14.33.47:593][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.27-14.33.53:047][  0]Cmd: MAP LOAD FILE="../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.27-14.33.53:061][  0]LightingResults: New page: Lighting Build
+[2018.01.27-14.33.53:356][  0]MapCheck: New page: Map Check
+[2018.01.27-14.33.53:356][  0]LightingResults: New page: Lighting Build
+[2018.01.27-14.33.57:468][  0]LogBlueprint: Warning: [Compiler IC_BP] Get : 'Health' variable not found. Base class was probably changed. /Game/Mesh/Integrated_Circuit/IC_BP.IC_BP
+[2018.01.27-14.33.57:487][  0]LogBlueprint: Warning: [Compiler IC_BP] Set : 'Health' variable not found. Base class was probably changed. /Game/Mesh/Integrated_Circuit/IC_BP.IC_BP
+[2018.01.27-14.33.57:487][  0]LogBlueprint: Warning: [Compiler IC_BP] Set Health : 'Health' variable not found. Base class was probably changed. /Game/Mesh/Integrated_Circuit/IC_BP.IC_BP
+[2018.01.27-14.33.57:487][  0]LogBlueprint: Warning: [Compiler IC_BP] Get : 'Health' variable not found. Base class was probably changed. /Game/Mesh/Integrated_Circuit/IC_BP.IC_BP
+[2018.01.27-14.33.57:487][  0]LogBlueprint: Warning: [Compiler IC_BP] Get : 'Base_Box' variable not found. Base class was probably changed. /Game/Mesh/Integrated_Circuit/IC_BP.IC_BP
+[2018.01.27-14.33.57:490][  0]LogBlueprint: Warning: [Compiler IC_BP] [0107.57] Compile of IC_BP successful, but with 5 Warning(s) [in 89 ms] (/Game/Mesh/Integrated_Circuit/IC_BP.IC_BP)
+[2018.01.27-14.34.09:518][  0]LogAIModule: Creating AISystem for world Arena
+[2018.01.27-14.34.10:179][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.27-14.34.10:565][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.27-14.34.10:674][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 109.556ms to complete.
+[2018.01.27-14.34.10:674][  0]LogFileHelpers: Loading map 'Arena' took 17.673
+[2018.01.27-14.34.14:950][  0]LogCollectionManager: Loaded 0 collections in 0.016951 seconds
+[2018.01.27-14.34.15:281][  0]LogFileCache: Scanning file cache for directory 'C:/Users/PC9/Documents/GitHub/ProjectX/Saved/Collections/' took 0.01s
+[2018.01.27-14.34.15:281][  0]LogFileCache: Scanning file cache for directory 'C:/Users/PC9/Documents/GitHub/ProjectX/Content/Developers/PC9/Collections/' took 0.01s
+[2018.01.27-14.34.15:281][  0]LogFileCache: Scanning file cache for directory 'C:/Users/PC9/Documents/GitHub/ProjectX/Content/Collections/' took 0.01s
+[2018.01.27-14.34.15:281][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.01.27-14.34.15:307][  0]LogContentBrowser: Native class hierarchy populated in 0.0191 seconds. Added 2372 classes and 524 folders.
+[2018.01.27-14.34.15:647][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.01.27-14.34.19:004][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.01.27-14.34.19:103][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.01.27-14.34.19:684][  0]LogSlate: Took 0.017337 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.27-14.34.19:734][  0]LogSlate: Took 0.019128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.27-14.34.19:770][  0]LogSlate: Took 0.015727 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.27-14.34.20:412][  0]LogRenderer: Reallocating scene render targets to support 856x372 Format 10 NumSamples 1 (Frame:1).
+[2018.01.27-14.34.21:373][  0]LogSlate: Took 0.012407 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.27-14.34.21:770][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.01.27-14.34.21:770][  0]LogLoad: (Engine Initialization) Total time: 131.85 seconds
+[2018.01.27-14.34.21:770][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.27-14.34.21:770][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.01.27-14.34.21:970][  0]SourceControl: On branch master
+[2018.01.27-14.34.21:970][  0]SourceControl: Your branch is up to date with 'origin/master'.
+[2018.01.27-14.34.21:970][  0]SourceControl: Changes not staged for commit:
+[2018.01.27-14.34.21:970][  0]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2018.01.27-14.34.21:970][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.01.27-14.34.21:970][  0]SourceControl: 	modified:   Content/Level/Arena.umap
+[2018.01.27-14.34.21:970][  0]SourceControl: 	modified:   Content/Mesh/Walls/Materials/Fence1.uasset
+[2018.01.27-14.34.21:970][  0]SourceControl: 	modified:   Content/NewMaterial.uasset
+[2018.01.27-14.34.21:970][  0]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2018.01.27-14.34.21:986][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.27-14.34.22:607][  2]LogAssetRegistry: Asset discovery search completed in 79.8106 seconds
+[2018.01.27-14.34.22:609][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.01.27-14.34.22:609][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000066 seconds (updated 0 objects)
+[2018.01.27-14.35.05:200][993]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2018.01.27-14.35.11:244][433]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.01.27-14.35.22:268][433]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.01.27-14.35.22:301][433]SourceControl: [master 5101700] lala
+[2018.01.27-14.35.22:301][433]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.01.27-14.35.22:301][433]SourceControl:  rewrite Content/NewMaterial.uasset (95%)
+[2018.01.27-14.35.22:305][433]SourceControl: Commited [master 5101700] lala.
+[2018.01.27-14.36.20:584][500]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.27-14.37.10:181][699]Cmd: SELECT NONE
+[2018.01.27-14.37.15:357][211]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder4)
+[2018.01.27-14.37.20:010][593]Cmd: SELECT NONE
+[2018.01.27-14.37.31:529][728]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-14.37.31:649][728]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-14.37.31:663][728]PIE: New page: PIE session: Arena (Jan 28, 2018, 6:37:31 AM)
+[2018.01.27-14.37.31:663][728]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Arena
+[2018.01.27-14.37.31:679][728]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015774s)
+[2018.01.27-14.37.31:680][728]LogAIModule: Creating AISystem for world Arena
+[2018.01.27-14.37.31:680][728]LogPlayLevel: PIE: World Init took: (0.001125s)
+[2018.01.27-14.37.31:680][728]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Arena.Arena to /Game/Level/UEDPIE_0_Arena.Arena (0.017319s)
+[2018.01.27-14.37.33:344][728]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.27-14.37.33:378][728]LogWorld: Bringing World /Game/Level/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2018.01.27-22.37.33
+[2018.01.27-14.37.33:386][728]LogWorld: Bringing up level for play took: 0.012893
+[2018.01.27-14.37.33:446][728]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.01.27-14.37.33:506][728]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Arena 2.313
+[2018.01.27-14.37.34:915][821]Cmd: LevelEditor.ToggleImmersive
+[2018.01.27-14.37.35:174][822]LogRenderer: Reallocating scene render targets to support 1020x488 Format 10 NumSamples 1 (Frame:95).
+[2018.01.27-14.37.35:244][823]LogRenderer: Reallocating scene render targets to support 1368x728 Format 10 NumSamples 1 (Frame:97).
+[2018.01.27-14.37.35:252][823]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.37.35:252][823]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.37.38:264][156]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.37.39:266][273]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.38.04:386][ 97]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder3)
+[2018.01.27-14.38.07:610][436]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-14.38.07:633][436]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-14.38.07:634][436]PIE: New page: PIE session: Arena (Jan 28, 2018, 6:38:07 AM)
+[2018.01.27-14.38.07:634][436]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Arena
+[2018.01.27-14.38.07:649][436]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015445s)
+[2018.01.27-14.38.07:650][436]LogAIModule: Creating AISystem for world Arena
+[2018.01.27-14.38.07:651][436]LogPlayLevel: PIE: World Init took: (0.001288s)
+[2018.01.27-14.38.07:651][436]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Arena.Arena to /Game/Level/UEDPIE_0_Arena.Arena (0.017395s)
+[2018.01.27-14.38.07:702][436]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.27-14.38.07:708][436]LogWorld: Bringing World /Game/Level/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2018.01.27-22.38.07
+[2018.01.27-14.38.07:708][436]LogWorld: Bringing up level for play took: 0.005479
+[2018.01.27-14.38.07:711][436]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Arena 0.519
+[2018.01.27-14.38.08:604][515]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.38.21:769][ 26]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.27-14.38.21:786][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Arena" FILE="../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.27-14.38.22:207][ 26]LogSavePackage: Save=338.48ms
+[2018.01.27-14.38.22:207][ 26]LogSavePackage: Moving '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/ArenaABB06A274703A3C701D8769CCEF2BA9D.tmp' to '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena.umap'
+[2018.01.27-14.38.22:213][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena.umap
+[2018.01.27-14.38.22:291][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Arena_BuiltData" FILE="../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena_BuiltData.uasset" SILENT=true
+[2018.01.27-14.38.23:351][ 26]LogSlate: Took 0.016853 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.27-14.38.23:363][ 26]LogSavePackage: Save=959.78ms
+[2018.01.27-14.38.23:363][ 26]LogSavePackage: Moving '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Arena_BuiltData5A37512245FF30C0EE864087A56D46A2.tmp' to '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena_BuiltData.uasset'
+[2018.01.27-14.38.23:372][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena_BuiltData.uasset
+[2018.01.27-14.38.28:044][531]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2018.01.27-14.38.34:382][122]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight6)
+[2018.01.27-14.39.53:432][970]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2018.01.27-14.39.58:814][407]Cmd: SELECT NONE
+[2018.01.27-14.39.59:786][499]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2018.01.27-14.40.10:268][363]Cmd: SELECT NONE
+[2018.01.27-14.40.11:941][525]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-14.40.11:961][525]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-14.40.11:961][525]PIE: New page: PIE session: Arena (Jan 28, 2018, 6:40:11 AM)
+[2018.01.27-14.40.11:961][525]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Arena
+[2018.01.27-14.40.12:055][525]LogPlayLevel: PIE: StaticDuplicateObject took: (0.093732s)
+[2018.01.27-14.40.12:056][525]LogAIModule: Creating AISystem for world Arena
+[2018.01.27-14.40.12:056][525]LogPlayLevel: PIE: World Init took: (0.001534s)
+[2018.01.27-14.40.12:057][525]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Arena.Arena to /Game/Level/UEDPIE_0_Arena.Arena (0.095772s)
+[2018.01.27-14.40.12:105][525]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.27-14.40.12:110][525]LogWorld: Bringing World /Game/Level/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2018.01.27-22.40.12
+[2018.01.27-14.40.12:111][525]LogWorld: Bringing up level for play took: 0.005472
+[2018.01.27-14.40.12:114][525]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Arena 0.921
+[2018.01.27-14.40.12:858][581]Cmd: LevelEditor.ToggleImmersive
+[2018.01.27-14.40.12:961][583]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.40.13:968][684]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.40.14:974][787]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.40.15:977][887]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.40.16:978][986]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.40.29:060][219]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2018.01.27-14.41.13:927][534]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-14.41.13:944][534]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-14.41.13:944][534]PIE: New page: PIE session: Arena (Jan 28, 2018, 6:41:13 AM)
+[2018.01.27-14.41.13:944][534]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Arena
+[2018.01.27-14.41.13:961][534]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016755s)
+[2018.01.27-14.41.13:962][534]LogAIModule: Creating AISystem for world Arena
+[2018.01.27-14.41.13:962][534]LogPlayLevel: PIE: World Init took: (0.001112s)
+[2018.01.27-14.41.13:962][534]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Arena.Arena to /Game/Level/UEDPIE_0_Arena.Arena (0.018369s)
+[2018.01.27-14.41.14:012][534]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.27-14.41.14:018][534]LogWorld: Bringing World /Game/Level/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2018.01.27-22.41.14
+[2018.01.27-14.41.14:018][534]LogWorld: Bringing up level for play took: 0.005446
+[2018.01.27-14.41.14:022][534]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Arena 0.829
+[2018.01.27-14.41.14:918][617]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.41.15:194][644]Cmd: LevelEditor.ToggleImmersive
+[2018.01.27-14.41.15:921][709]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.41.16:921][826]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.41.17:921][945]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.41.18:928][ 52]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.41.19:938][157]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.41.20:942][261]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.41.25:587][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Arena" FILE="../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.27-14.41.25:939][741]LogSavePackage: Save=330.95ms
+[2018.01.27-14.41.25:939][741]LogSavePackage: Moving '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Arena76028DC8430A3AD69A583699BCB697BF.tmp' to '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena.umap'
+[2018.01.27-14.41.25:941][741]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena.umap
+[2018.01.27-14.41.26:009][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Arena_BuiltData" FILE="../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena_BuiltData.uasset" SILENT=true
+[2018.01.27-14.41.26:825][741]LogSavePackage: Save=811.49ms
+[2018.01.27-14.41.26:825][741]LogSavePackage: Moving '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Arena_BuiltData0039433940DB94289C789D912AA9F581.tmp' to '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena_BuiltData.uasset'
+[2018.01.27-14.41.26:827][741]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena_BuiltData.uasset
+[2018.01.27-14.41.29:618][975]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2018.01.27-14.41.52:482][247]Cmd: SELECT NONE
+[2018.01.27-14.41.55:896][600]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2018.01.27-14.41.58:597][889]Cmd: SELECT NONE
+[2018.01.27-14.41.59:989][ 42]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2018.01.27-14.42.11:165][ 45]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor8)
+[2018.01.27-14.42.13:363][239]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2018.01.27-14.42.19:889][934]Cmd: SELECT NONE
+[2018.01.27-14.42.26:218][598]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2018.01.27-14.42.28:139][797]Cmd: SELECT NONE
+[2018.01.27-14.42.29:586][957]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-14.42.29:605][957]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-14.42.29:605][957]PIE: New page: PIE session: Arena (Jan 28, 2018, 6:42:29 AM)
+[2018.01.27-14.42.29:605][957]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Arena
+[2018.01.27-14.42.29:629][957]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023501s)
+[2018.01.27-14.42.29:630][957]LogAIModule: Creating AISystem for world Arena
+[2018.01.27-14.42.29:630][957]LogPlayLevel: PIE: World Init took: (0.001522s)
+[2018.01.27-14.42.29:631][957]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Arena.Arena to /Game/Level/UEDPIE_0_Arena.Arena (0.025587s)
+[2018.01.27-14.42.29:677][957]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.27-14.42.29:683][957]LogWorld: Bringing World /Game/Level/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2018.01.27-22.42.29
+[2018.01.27-14.42.29:684][957]LogWorld: Bringing up level for play took: 0.005681
+[2018.01.27-14.42.29:687][957]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Arena 0.495
+[2018.01.27-14.42.30:581][ 57]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.42.31:588][176]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.42.32:597][291]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.42.33:600][406]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.42.34:605][522]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.42.35:612][635]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.42.36:616][742]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.42.37:619][843]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.42.38:628][955]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.42.38:762][970]Cmd: LevelEditor.ToggleImmersive
+[2018.01.27-14.42.40:151][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Arena" FILE="../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.27-14.42.40:505][ 67]LogSavePackage: Save=333.70ms
+[2018.01.27-14.42.40:505][ 67]LogSavePackage: Moving '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/ArenaC72F3ADA48A13523DAF1E2928E39DA6E.tmp' to '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena.umap'
+[2018.01.27-14.42.40:507][ 67]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena.umap
+[2018.01.27-14.42.40:584][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Arena_BuiltData" FILE="../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena_BuiltData.uasset" SILENT=true
+[2018.01.27-14.42.41:393][ 67]LogSavePackage: Save=803.31ms
+[2018.01.27-14.42.41:393][ 67]LogSavePackage: Moving '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Arena_BuiltData6DF63F2B4A822E99A9A555B6826A5D73.tmp' to '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena_BuiltData.uasset'
+[2018.01.27-14.42.41:395][ 67]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena_BuiltData.uasset
+[2018.01.27-14.42.49:042][786]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2018.01.27-14.42.58:151][528]Cmd: SELECT NONE
+[2018.01.27-14.42.59:070][624]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight4)
+[2018.01.27-14.43.02:386][879]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-14.43.02:404][879]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-14.43.02:405][879]PIE: New page: PIE session: Arena (Jan 28, 2018, 6:43:02 AM)
+[2018.01.27-14.43.02:405][879]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Arena
+[2018.01.27-14.43.02:424][879]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019732s)
+[2018.01.27-14.43.02:427][879]LogAIModule: Creating AISystem for world Arena
+[2018.01.27-14.43.02:427][879]LogPlayLevel: PIE: World Init took: (0.002598s)
+[2018.01.27-14.43.02:428][879]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Arena.Arena to /Game/Level/UEDPIE_0_Arena.Arena (0.022846s)
+[2018.01.27-14.43.02:485][879]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.27-14.43.02:490][879]LogWorld: Bringing World /Game/Level/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2018.01.27-22.43.02
+[2018.01.27-14.43.02:490][879]LogWorld: Bringing up level for play took: 0.005236
+[2018.01.27-14.43.02:493][879]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Arena -0.7
+[2018.01.27-14.43.03:372][949]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.43.03:568][966]Cmd: LevelEditor.ToggleImmersive
+[2018.01.27-14.43.04:375][ 37]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.43.05:378][152]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.43.06:378][269]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.43.08:016][446]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight4)
+[2018.01.27-14.43.11:270][806]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-14.43.11:288][806]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-14.43.11:288][806]PIE: New page: PIE session: Arena (Jan 28, 2018, 6:43:11 AM)
+[2018.01.27-14.43.11:289][806]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Arena
+[2018.01.27-14.43.11:313][806]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024525s)
+[2018.01.27-14.43.11:315][806]LogAIModule: Creating AISystem for world Arena
+[2018.01.27-14.43.11:316][806]LogPlayLevel: PIE: World Init took: (0.002206s)
+[2018.01.27-14.43.11:316][806]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Arena.Arena to /Game/Level/UEDPIE_0_Arena.Arena (0.027156s)
+[2018.01.27-14.43.11:372][806]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.27-14.43.11:378][806]LogWorld: Bringing World /Game/Level/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2018.01.27-22.43.11
+[2018.01.27-14.43.11:378][806]LogWorld: Bringing up level for play took: 0.005253
+[2018.01.27-14.43.11:382][806]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Arena 0.189
+[2018.01.27-14.43.12:269][904]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.43.13:269][ 20]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.43.14:269][130]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.43.15:271][238]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.43.16:278][345]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.43.17:286][444]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.43.18:291][541]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.43.19:300][642]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.43.20:302][753]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.43.21:308][870]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.43.22:310][971]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.43.23:316][ 74]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.43.24:319][182]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.43.25:323][299]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.43.26:328][418]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.43.27:338][537]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.43.28:339][654]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.43.29:345][772]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.43.30:348][881]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.43.31:355][990]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.43.32:361][105]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.43.33:365][219]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.43.34:367][337]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.43.35:369][447]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.43.36:378][559]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.43.37:384][678]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.43.38:389][798]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.43.39:397][918]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.43.40:400][ 38]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.43.42:538][257]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.27-14.43.44:662][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Arena" FILE="../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.27-14.43.45:018][408]LogSavePackage: Save=335.09ms
+[2018.01.27-14.43.45:018][408]LogSavePackage: Moving '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Arena281B5D3B449A35D62A3F5E972EBF23E9.tmp' to '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena.umap'
+[2018.01.27-14.43.45:020][408]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena.umap
+[2018.01.27-14.43.45:085][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Arena_BuiltData" FILE="../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena_BuiltData.uasset" SILENT=true
+[2018.01.27-14.43.45:931][408]LogSavePackage: Save=821.90ms
+[2018.01.27-14.43.45:931][408]LogSavePackage: Moving '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Arena_BuiltDataEF6ECCA641D81AFB67BE899ED573A85C.tmp' to '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena_BuiltData.uasset'
+[2018.01.27-14.43.45:933][408]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena_BuiltData.uasset
+[2018.01.27-14.44.33:998][347]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.27-14.44.58:374][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Arena" FILE="../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.27-14.44.58:788][402]LogSavePackage: Save=377.21ms
+[2018.01.27-14.44.58:788][402]LogSavePackage: Moving '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Arena867C57E743AD825010B4FA95D0E37206.tmp' to '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena.umap'
+[2018.01.27-14.44.58:790][402]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena.umap
+[2018.01.27-14.44.58:862][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Arena_BuiltData" FILE="../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena_BuiltData.uasset" SILENT=true
+[2018.01.27-14.44.59:684][402]LogSavePackage: Save=816.91ms
+[2018.01.27-14.44.59:684][402]LogSavePackage: Moving '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Arena_BuiltDataAE9AEAE34807BBE23B34B980512AA1ED.tmp' to '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena_BuiltData.uasset'
+[2018.01.27-14.44.59:687][402]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena_BuiltData.uasset
+[2018.01.27-14.45.32:956][ 39]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2018.01.27-14.46.18:804][528]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (Atmospheric Fog)
+[2018.01.27-14.46.45:611][694]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-14.46.45:627][694]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-14.46.45:627][694]PIE: New page: PIE session: Arena (Jan 28, 2018, 6:46:45 AM)
+[2018.01.27-14.46.45:627][694]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Arena
+[2018.01.27-14.46.45:646][694]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018371s)
+[2018.01.27-14.46.45:647][694]LogAIModule: Creating AISystem for world Arena
+[2018.01.27-14.46.45:648][694]LogPlayLevel: PIE: World Init took: (0.001522s)
+[2018.01.27-14.46.45:648][694]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Arena.Arena to /Game/Level/UEDPIE_0_Arena.Arena (0.020357s)
+[2018.01.27-14.46.45:705][694]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.27-14.46.45:711][694]LogWorld: Bringing World /Game/Level/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2018.01.27-22.46.45
+[2018.01.27-14.46.45:711][694]LogWorld: Bringing up level for play took: 0.005242
+[2018.01.27-14.46.45:714][694]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Arena 0.521
+[2018.01.27-14.46.46:602][766]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.46.46:640][770]Cmd: LevelEditor.ToggleImmersive
+[2018.01.27-14.46.47:605][865]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.46.48:608][968]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.46.49:615][ 72]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.46.50:619][179]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.46.51:619][298]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.46.54:842][624]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.27-14.47.34:929][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Arena" FILE="../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.27-14.47.35:313][869]LogSavePackage: Save=356.20ms
+[2018.01.27-14.47.35:313][869]LogSavePackage: Moving '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Arena030DE53149EA459856ADE9BAFB6F925C.tmp' to '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena.umap'
+[2018.01.27-14.47.35:315][869]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena.umap
+[2018.01.27-14.47.35:394][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Arena_BuiltData" FILE="../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena_BuiltData.uasset" SILENT=true
+[2018.01.27-14.47.36:218][869]LogSavePackage: Save=819.96ms
+[2018.01.27-14.47.36:218][869]LogSavePackage: Moving '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Arena_BuiltData3959870547E96778294618AA0D9F6A71.tmp' to '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena_BuiltData.uasset'
+[2018.01.27-14.47.36:221][869]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena_BuiltData.uasset
+[2018.01.27-14.47.40:878][364]Cmd: SELECT NONE
+[2018.01.27-14.47.41:295][397]Cmd: SELECT NONE
+[2018.01.27-14.47.43:069][564]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.27-14.49.06:480][708]Cmd: TRANSACTION UNDO
+[2018.01.27-14.49.06:480][708]LogEditorTransaction: Undo Edit Overall Color
+[2018.01.27-14.49.06:490][708]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.27-14.49.34:716][ 44]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (Atmospheric Fog)
+[2018.01.27-14.50.15:762][442]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-14.50.15:778][442]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-14.50.15:779][442]PIE: New page: PIE session: Arena (Jan 28, 2018, 6:50:15 AM)
+[2018.01.27-14.50.15:779][442]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Arena
+[2018.01.27-14.50.15:796][442]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017022s)
+[2018.01.27-14.50.15:797][442]LogAIModule: Creating AISystem for world Arena
+[2018.01.27-14.50.15:797][442]LogPlayLevel: PIE: World Init took: (0.001453s)
+[2018.01.27-14.50.15:798][442]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Arena.Arena to /Game/Level/UEDPIE_0_Arena.Arena (0.018888s)
+[2018.01.27-14.50.15:852][442]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.27-14.50.15:858][442]LogWorld: Bringing World /Game/Level/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2018.01.27-22.50.15
+[2018.01.27-14.50.15:858][442]LogWorld: Bringing up level for play took: 0.005440
+[2018.01.27-14.50.15:862][442]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Arena 0.669
+[2018.01.27-14.50.16:762][514]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.50.17:110][547]Cmd: LevelEditor.ToggleImmersive
+[2018.01.27-14.50.17:765][606]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.50.18:764][725]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.50.19:770][838]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.50.20:771][950]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.50.21:777][ 61]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.50.22:784][178]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.50.23:784][296]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.50.24:785][415]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.51.19:323][764]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2018.01.27-14.51.30:513][690]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (Atmospheric Fog)
+[2018.01.27-14.52.14:791][314]Cmd: SELECT NONE
+[2018.01.27-14.52.31:930][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Arena" FILE="../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.27-14.52.32:296][830]LogSavePackage: Save=343.20ms
+[2018.01.27-14.52.32:296][830]LogSavePackage: Moving '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/ArenaBF713F7B4ECD1662EE96F89D29D94233.tmp' to '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena.umap'
+[2018.01.27-14.52.32:298][830]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena.umap
+[2018.01.27-14.52.32:379][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Arena_BuiltData" FILE="../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena_BuiltData.uasset" SILENT=true
+[2018.01.27-14.52.33:215][830]LogSavePackage: Save=809.94ms
+[2018.01.27-14.52.33:215][830]LogSavePackage: Moving '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Arena_BuiltData19FC7751453D79E3C1240289149E5689.tmp' to '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena_BuiltData.uasset'
+[2018.01.27-14.52.33:218][830]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena_BuiltData.uasset
+[2018.01.27-14.52.50:514][413]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-14.52.50:531][413]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-14.52.50:531][413]PIE: New page: PIE session: Arena (Jan 28, 2018, 6:52:50 AM)
+[2018.01.27-14.52.50:531][413]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Arena
+[2018.01.27-14.52.50:548][413]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016826s)
+[2018.01.27-14.52.50:549][413]LogAIModule: Creating AISystem for world Arena
+[2018.01.27-14.52.50:549][413]LogPlayLevel: PIE: World Init took: (0.001076s)
+[2018.01.27-14.52.50:549][413]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Arena.Arena to /Game/Level/UEDPIE_0_Arena.Arena (0.018495s)
+[2018.01.27-14.52.50:596][413]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.27-14.52.50:602][413]LogWorld: Bringing World /Game/Level/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2018.01.27-22.52.50
+[2018.01.27-14.52.50:602][413]LogWorld: Bringing up level for play took: 0.005787
+[2018.01.27-14.52.50:606][413]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Arena -0.587
+[2018.01.27-14.52.51:512][494]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.52.51:778][520]Cmd: LevelEditor.ToggleImmersive
+[2018.01.27-14.52.52:520][589]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.52.53:523][702]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.52.54:523][813]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.52.55:527][929]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.52.56:529][ 48]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.52.57:530][167]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.52.58:539][286]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.52.59:538][405]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.53.00:543][524]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.53.01:544][628]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.53.02:552][732]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.53.03:560][842]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.53.04:567][962]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.53.05:573][ 78]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.53.06:584][189]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.53.09:594][494]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.53.10:599][600]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.53.15:317][ 97]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2018.01.27-14.53.18:416][373]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2018.01.27-14.53.19:065][435]Cmd: DELETE
+[2018.01.27-14.53.19:065][435]Cmd: ACTOR DELETE
+[2018.01.27-14.53.19:081][435]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-14.53.19:094][435]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2018.01.27-14.53.19:438][469]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2018.01.27-14.53.23:000][831]Cmd: DELETE
+[2018.01.27-14.53.23:000][831]Cmd: ACTOR DELETE
+[2018.01.27-14.53.23:005][831]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-14.53.23:021][831]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2018.01.27-14.53.23:462][876]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2018.01.27-14.53.32:260][747]Cmd: SELECT NONE
+[2018.01.27-14.53.34:712][967]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2018.01.27-14.53.40:983][541]Cmd: SELECT NONE
+[2018.01.27-14.53.44:200][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2018.01.27-14.53.53:031][723]Cmd: SELECT NONE
+[2018.01.27-14.54.01:805][566]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2018.01.27-14.54.09:540][335]Cmd: SELECT NONE
+[2018.01.27-14.54.10:348][422]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2018.01.27-14.54.13:026][689]Cmd: SELECT NONE
+[2018.01.27-14.54.15:767][959]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2018.01.27-14.54.18:422][232]Cmd: SELECT NONE
+[2018.01.27-14.54.19:044][301]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2018.01.27-14.54.28:801][238]Cmd: SELECT NONE
+[2018.01.27-14.54.30:879][436]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2018.01.27-14.54.36:385][947]Cmd: SELECT NONE
+[2018.01.27-14.54.38:703][154]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2018.01.27-14.54.43:798][690]Cmd: MODE ROTGRID=0
+[2018.01.27-14.54.47:055][ 27]Cmd: SELECT NONE
+[2018.01.27-14.54.49:123][223]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2018.01.27-14.54.52:408][554]Cmd: SELECT NONE
+[2018.01.27-14.54.54:626][799]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2018.01.27-14.54.56:783][ 24]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2018.01.27-14.54.58:791][221]Cmd: SELECT NONE
+[2018.01.27-14.54.59:654][315]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2018.01.27-14.55.01:786][519]Cmd: SELECT NONE
+[2018.01.27-14.55.27:067][235]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PCB23)
+[2018.01.27-14.55.28:987][406]Cmd: SELECT NONE
+[2018.01.27-14.55.29:332][445]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PCB23)
+[2018.01.27-14.55.30:278][543]Cmd: DELETE
+[2018.01.27-14.55.30:278][543]Cmd: ACTOR DELETE
+[2018.01.27-14.55.30:284][543]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-14.55.30:297][543]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2018.01.27-14.55.30:748][595]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PCB22)
+[2018.01.27-14.55.31:009][618]Cmd: DELETE
+[2018.01.27-14.55.31:009][618]Cmd: ACTOR DELETE
+[2018.01.27-14.55.31:014][618]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-14.55.31:029][618]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2018.01.27-14.55.31:408][661]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PCB21)
+[2018.01.27-14.55.31:590][675]Cmd: DELETE
+[2018.01.27-14.55.31:590][675]Cmd: ACTOR DELETE
+[2018.01.27-14.55.31:595][675]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-14.55.31:611][675]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2018.01.27-14.55.32:046][725]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PCB20)
+[2018.01.27-14.55.32:149][730]Cmd: DELETE
+[2018.01.27-14.55.32:149][730]Cmd: ACTOR DELETE
+[2018.01.27-14.55.32:153][730]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-14.55.32:166][730]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2018.01.27-14.55.34:612][988]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-14.55.34:632][988]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-14.55.34:632][988]PIE: New page: PIE session: Arena (Jan 28, 2018, 6:55:34 AM)
+[2018.01.27-14.55.34:632][988]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Arena
+[2018.01.27-14.55.34:655][988]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022273s)
+[2018.01.27-14.55.34:657][988]LogAIModule: Creating AISystem for world Arena
+[2018.01.27-14.55.34:657][988]LogPlayLevel: PIE: World Init took: (0.002728s)
+[2018.01.27-14.55.34:658][988]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Arena.Arena to /Game/Level/UEDPIE_0_Arena.Arena (0.025389s)
+[2018.01.27-14.55.34:708][988]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.27-14.55.34:713][988]LogWorld: Bringing World /Game/Level/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2018.01.27-22.55.34
+[2018.01.27-14.55.34:713][988]LogWorld: Bringing up level for play took: 0.005000
+[2018.01.27-14.55.34:717][988]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Arena -0.476
+[2018.01.27-14.55.35:616][ 38]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.55.36:618][132]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.55.37:625][235]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.55.38:632][350]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.55.42:646][821]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.55.43:653][934]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-14.56.32:404][147]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BG_RESISTOR14)
+[2018.01.27-14.56.33:709][256]Cmd: DELETE
+[2018.01.27-14.56.33:709][256]Cmd: ACTOR DELETE
+[2018.01.27-14.56.33:714][256]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-14.56.33:729][256]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2018.01.27-14.56.34:218][307]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BG_RESISTOR15)
+[2018.01.27-14.56.34:288][308]Cmd: DELETE
+[2018.01.27-14.56.34:288][308]Cmd: ACTOR DELETE
+[2018.01.27-14.56.34:294][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-14.56.34:309][308]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2018.01.27-14.56.40:979][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Arena" FILE="../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.27-14.56.41:329][971]LogSavePackage: Save=327.71ms
+[2018.01.27-14.56.41:329][971]LogSavePackage: Moving '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Arena22DC19F344CA025B3FAE4DAF4AAE7518.tmp' to '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena.umap'
+[2018.01.27-14.56.41:332][971]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena.umap
+[2018.01.27-14.56.41:415][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Arena_BuiltData" FILE="../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena_BuiltData.uasset" SILENT=true
+[2018.01.27-14.56.42:234][971]LogSavePackage: Save=813.63ms
+[2018.01.27-14.56.42:234][971]LogSavePackage: Moving '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Arena_BuiltData25E4860F436CEB320DBC7498E591F94B.tmp' to '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena_BuiltData.uasset'
+[2018.01.27-14.56.42:237][971]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena_BuiltData.uasset
+[2018.01.27-14.56.45:794][280]LogActorFactory: Actor Factory created Post
+[2018.01.27-14.56.46:485][344]LogActorFactory: Actor Factory created Post
+[2018.01.27-14.56.57:570][225]Cmd: MODE ROTGRID=1
+[2018.01.27-14.57.05:797][846]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BG_Capacitor35)
+[2018.01.27-14.57.07:091][957]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Post)
+[2018.01.27-14.57.36:452][497]Cmd: SELECT NONE
+[2018.01.27-14.57.41:736][ 49]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Post)
+[2018.01.27-14.57.48:387][592]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.27-14.57.52:919][983]Cmd: SELECT NONE
+[2018.01.27-14.58.08:922][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Arena" FILE="../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.27-14.58.09:291][473]LogSavePackage: Save=345.26ms
+[2018.01.27-14.58.09:291][473]LogSavePackage: Moving '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Arena613CD3E84402A13A8D922DB5041C8208.tmp' to '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena.umap'
+[2018.01.27-14.58.09:293][473]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena.umap
+[2018.01.27-14.58.09:362][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Arena_BuiltData" FILE="../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena_BuiltData.uasset" SILENT=true
+[2018.01.27-14.58.10:183][473]LogSavePackage: Save=796.87ms
+[2018.01.27-14.58.10:183][473]LogSavePackage: Moving '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Arena_BuiltDataDDA353F94AA070F993E1478EBE7F72DD.tmp' to '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena_BuiltData.uasset'
+[2018.01.27-14.58.10:185][473]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena_BuiltData.uasset
+[2018.01.27-14.58.12:361][677]MapCheck: New page: Map Check
+[2018.01.27-14.58.12:449][677]Cmd: MAP REBUILD ALLVISIBLE
+[2018.01.27-14.58.12:449][677]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.01.27-14.58.12:793][677]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.01.27-14.58.12:826][677]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultMaterial, compiling. 
+[2018.01.27-14.58.12:832][677]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_1439, compiling. 
+[2018.01.27-14.58.12:842][677]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Body, compiling. 
+[2018.01.27-14.58.12:858][677]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Steam, compiling. 
+[2018.01.27-14.58.12:865][677]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy shades, compiling. 
+[2018.01.27-14.58.12:871][677]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Feet, compiling. 
+[2018.01.27-14.58.12:878][677]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy ResistorBody, compiling. 
+[2018.01.27-14.58.12:886][677]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lambert1, compiling. 
+[2018.01.27-14.58.12:900][677]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy ResistorHandle, compiling. 
+[2018.01.27-14.58.12:907][677]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy ResistorHead, compiling. 
+[2018.01.27-14.58.12:913][677]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BG_Capacitor1, compiling. 
+[2018.01.27-14.58.12:925][677]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.01.27-14.58.12:932][677]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BG_Capacitor, compiling. 
+[2018.01.27-14.58.12:944][677]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy PCBDrills, compiling. 
+[2018.01.27-14.58.12:956][677]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy PCBBed, compiling. 
+[2018.01.27-14.58.12:963][677]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lambert1, compiling. 
+[2018.01.27-14.58.12:970][677]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy PCBDeck, compiling. 
+[2018.01.27-14.58.12:980][677]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy PCBHead, compiling. 
+[2018.01.27-14.58.12:987][677]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy NewMaterial, compiling. 
+[2018.01.27-14.58.13:064][677]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Fence1, compiling. 
+[2018.01.27-14.58.13:071][677]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Post1, compiling. 
+[2018.01.27-14.58.19:893][677]TextureStreamingBuild: Display: Compiling optional shaders took 7.108 seconds.
+[2018.01.27-14.58.19:995][677]LogLevel: Display: Export Material TexCoord Scales took 0.102 seconds.
+[2018.01.27-14.58.20:063][677]TextureStreamingBuild: Display: Build Texture Streaming took 0.068 seconds.
+[2018.01.27-14.58.20:144][677]LightingResults: New page: Lighting Build - Jan 28, 2018, 6:58:20 AM
+[2018.01.27-14.58.20:542][677]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.01.27-14.58.20:703][677]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.01.27-14.58.21:197][677]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.01.27-14.58.24:034][677]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.01.27-14.58.24:034][677]LogSwarmInterface: [TryOpenConnection] Local Process ID is 2688
+[2018.01.27-14.58.31:693][677]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2018.01.27-14.58.31:693][677]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.01.27-14.58.31:693][677]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.01.27-14.58.31:693][677]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.01.27-14.58.31:693][677]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.01.27-14.58.31:693][677]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.01.27-14.58.32:234][677]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.01.27-14.58.32:234][677]MapCheck: New page: Arena - Jan 28, 2018, 6:58:32 AM
+[2018.01.27-14.58.32:281][677]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.01.27-14.58.32:346][677]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 111.742ms to complete.
+[2018.01.27-14.58.32:368][677]LogEditorBuildUtils: Build time 0:19
+[2018.01.27-14.58.32:543][678]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer ResistorBody, compiling. 
+[2018.01.27-14.58.32:552][678]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer ResistorBody, compiling. 
+[2018.01.27-14.58.32:615][679]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer lambert1, compiling. 
+[2018.01.27-14.58.32:621][679]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer lambert1, compiling. 
+[2018.01.27-14.58.32:664][680]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer ResistorHandle, compiling. 
+[2018.01.27-14.58.32:670][680]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer ResistorHandle, compiling. 
+[2018.01.27-14.58.32:711][681]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer ResistorHead, compiling. 
+[2018.01.27-14.58.32:717][681]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer ResistorHead, compiling. 
+[2018.01.27-14.58.32:740][682]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer BG_Capacitor1, compiling. 
+[2018.01.27-14.58.32:746][682]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer BG_Capacitor1, compiling. 
+[2018.01.27-14.58.32:768][683]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer BG_Capacitor, compiling. 
+[2018.01.27-14.58.32:780][683]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer BG_Capacitor, compiling. 
+[2018.01.27-14.58.32:794][684]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer PCBDrills, compiling. 
+[2018.01.27-14.58.32:804][684]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer PCBDrills, compiling. 
+[2018.01.27-14.58.32:818][685]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer PCBBed, compiling. 
+[2018.01.27-14.58.32:829][685]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer PCBBed, compiling. 
+[2018.01.27-14.58.32:846][686]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer PCBDeck, compiling. 
+[2018.01.27-14.58.32:856][686]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer PCBDeck, compiling. 
+[2018.01.27-14.58.32:871][687]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer PCBHead, compiling. 
+[2018.01.27-14.58.32:888][687]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer PCBHead, compiling. 
+[2018.01.27-14.58.32:909][688]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer NewMaterial, compiling. 
+[2018.01.27-14.58.32:915][688]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer NewMaterial, compiling. 
+[2018.01.27-14.58.32:930][689]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Fence1, compiling. 
+[2018.01.27-14.58.32:939][689]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Fence1, compiling. 
+[2018.01.27-14.58.32:954][690]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Post1, compiling. 
+[2018.01.27-14.58.32:961][690]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Post1, compiling. 
+[2018.01.27-15.02.03:899][ 48]Job is a success!
+[2018.01.27-15.02.04:159][ 49]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.143s
+[2018.01.27-15.02.04:159][ 49]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2018.01.27-15.02.04:159][ 49]LogVolumetricLightmapImport:      BrickData 1280x20x5 = 3.5Mb
+[2018.01.27-15.02.04:159][ 49]LogVolumetricLightmapImport:      Bricks at Level
+[2018.01.27-15.02.04:159][ 49]LogVolumetricLightmapImport:          0: 0.9% covering 100.0% of volume
+[2018.01.27-15.02.04:159][ 49]LogVolumetricLightmapImport:          1: 13.5% covering 22.7% of volume
+[2018.01.27-15.02.04:159][ 49]LogVolumetricLightmapImport:          2: 85.5% covering 2.2% of volume
+[2018.01.27-15.02.04:317][ 49]LogMaterial: Warning: Material /Game/Mesh/Walls/Materials/Fence1.Fence1 needed to have new flag set bUsedWithStaticLighting !
+[2018.01.27-15.02.04:332][ 49]LogMaterial: Missing cached shader map for material Fence1, compiling. 
+[2018.01.27-15.02.04:394][ 49]LogMaterial: Warning: Material /Game/Mesh/Walls/Materials/Post1.Post1 needed to have new flag set bUsedWithStaticLighting !
+[2018.01.27-15.02.04:399][ 49]LogMaterial: Missing cached shader map for material Post1, compiling. 
+[2018.01.27-15.02.08:460][ 49]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.01.27-15.02.08:460][ 49]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.01.27-15.02.08:460][ 49]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 512X512)
+[2018.01.27-15.02.08:460][ 49]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 512X512)
+[2018.01.27-15.02.08:460][ 49]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 512X512)
+[2018.01.27-15.02.08:460][ 49]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 512X512)
+[2018.01.27-15.02.08:460][ 49]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 512X512)
+[2018.01.27-15.02.08:460][ 49]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 512X512)
+[2018.01.27-15.02.08:460][ 49]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 512X512)
+[2018.01.27-15.02.08:460][ 49]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 512X512)
+[2018.01.27-15.02.08:460][ 49]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 512X512)
+[2018.01.27-15.02.08:460][ 49]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 512X512)
+[2018.01.27-15.02.08:460][ 49]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 128X128)
+[2018.01.27-15.02.08:460][ 49]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 128X128)
+[2018.01.27-15.02.08:460][ 49]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 64X64)
+[2018.01.27-15.02.08:460][ 49]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 64X64)
+[2018.01.27-15.02.08:663][ 49]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X512)
+[2018.01.27-15.02.08:986][ 49]Lightmass on DESKTOP-M61K5TJ: 3:21 min total, 455 ms importing, 658 ms setup, 29.3 sec photons, 2:51 min processing, 0 ms extra exporting [169/169 mappings]. Threads: 5:42 min total, 1:36 min processing.
+[2018.01.27-15.02.09:042][ 49]LogStaticLightingSystem: Illumination: 3:48 min (4.00 sec encoding lightmaps, 202 ms encoding shadowmaps)
+[2018.01.27-15.02.09:042][ 49]LogStaticLightingSystem: Lightmap texture memory:  4.5 MB (4.5 MB streaming, 0.0 MB non-streaming), 16 textures
+[2018.01.27-15.02.09:042][ 49]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 1 textures
+[2018.01.27-15.02.09:830][ 49]DumpUnbuiltLightIteractions
+[2018.01.27-15.02.09:830][ 49]Lights with unbuilt interactions: 0
+[2018.01.27-15.02.09:830][ 49]
+[2018.01.27-15.02.09:830][ 49]Primitives with unbuilt interactions: 0
+[2018.01.27-15.02.09:836][ 50]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.01.27-15.02.09:836][ 50]MapCheck: New page: Arena - Jan 28, 2018, 7:02:09 AM
+[2018.01.27-15.02.09:900][ 50]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 64.218ms to complete.
+[2018.01.27-15.15.02:510][921]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-15.15.02:529][921]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-15.15.02:529][921]PIE: New page: PIE session: Arena (Jan 28, 2018, 7:15:02 AM)
+[2018.01.27-15.15.02:529][921]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Arena
+[2018.01.27-15.15.02:544][921]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014520s)
+[2018.01.27-15.15.02:545][921]LogAIModule: Creating AISystem for world Arena
+[2018.01.27-15.15.02:545][921]LogPlayLevel: PIE: World Init took: (0.000844s)
+[2018.01.27-15.15.02:545][921]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Arena.Arena to /Game/Level/UEDPIE_0_Arena.Arena (0.015687s)
+[2018.01.27-15.15.02:601][921]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.27-15.15.02:607][921]LogWorld: Bringing World /Game/Level/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2018.01.27-23.15.02
+[2018.01.27-15.15.02:607][921]LogWorld: Bringing up level for play took: 0.005159
+[2018.01.27-15.15.02:610][921]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Arena -0.582
+[2018.01.27-15.15.03:486][983]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.15.04:443][ 60]Cmd: LevelEditor.ToggleImmersive
+[2018.01.27-15.15.04:503][ 61]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.15.05:511][142]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.15.06:524][224]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.15.07:528][304]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.15.08:541][389]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.15.09:547][475]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.15.10:560][568]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.15.11:563][653]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.15.12:585][745]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.15.13:606][832]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.15.14:609][861]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.15.15:611][934]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.15.16:622][986]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.15.17:631][ 76]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.15.17:820][ 92]Cmd: LevelEditor.ToggleImmersive
+[2018.01.27-15.15.40:764][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Arena" FILE="../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.27-15.15.41:303][333]LogSavePackage: Save=485.56ms
+[2018.01.27-15.15.41:303][333]LogSavePackage: Moving '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Arena4A0167F940E20DD66F52DC8658E9360C.tmp' to '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena.umap'
+[2018.01.27-15.15.41:305][333]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena.umap
+[2018.01.27-15.15.42:467][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Arena_BuiltData" FILE="../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena_BuiltData.uasset" SILENT=true
+[2018.01.27-15.15.43:402][333]LogSavePackage: Save=912.32ms
+[2018.01.27-15.15.43:402][333]LogSavePackage: Moving '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Arena_BuiltData77C3DBB24ED65DB3513DD5806BE1BBC5.tmp' to '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena_BuiltData.uasset'
+[2018.01.27-15.15.43:404][333]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena_BuiltData.uasset
+[2018.01.27-15.25.40:686][991]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level/Arena' took 0.013
+[2018.01.27-15.25.40:723][991]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/Walls/Materials/Fence1] ([1] browsable assets)...
+[2018.01.27-15.25.40:740][991]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Mesh/Walls/Materials/Fence1.Fence1]
+[2018.01.27-15.25.40:740][991]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/Walls/Materials/Fence1]
+[2018.01.27-15.25.40:775][991]LogSavePackage: Save=25.21ms
+[2018.01.27-15.25.40:775][991]LogSavePackage: Moving '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Fence1_Auto10D3599214688433C29DD3D93B24F2AAD.tmp' to '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Autosaves/Game/Mesh/Walls/Materials/Fence1_Auto1.uasset'
+[2018.01.27-15.25.40:776][991]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Autosaves/Game/Mesh/Walls/Materials/Fence1_Auto1.uasset
+[2018.01.27-15.25.40:776][991]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/Walls/Materials/Post1] ([1] browsable assets)...
+[2018.01.27-15.25.40:792][991]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Mesh/Walls/Materials/Post1.Post1]
+[2018.01.27-15.25.40:792][991]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/Walls/Materials/Post1]
+[2018.01.27-15.25.40:812][991]LogSavePackage: Save=13.26ms
+[2018.01.27-15.25.40:812][991]LogSavePackage: Moving '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Post1_Auto1F0EF9B184BE27E8E1040BAA0FBB1CB4A.tmp' to '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Autosaves/Game/Mesh/Walls/Materials/Post1_Auto1.uasset'
+[2018.01.27-15.25.40:813][991]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Autosaves/Game/Mesh/Walls/Materials/Post1_Auto1.uasset
+[2018.01.27-15.25.40:813][991]LogFileHelpers: Auto-saving content packages took 0.126
+[2018.01.27-15.35.00:589][872]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-15.35.00:608][872]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-15.35.00:608][872]PIE: New page: PIE session: Arena (Jan 28, 2018, 7:35:00 AM)
+[2018.01.27-15.35.00:608][872]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Arena
+[2018.01.27-15.35.00:662][872]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054208s)
+[2018.01.27-15.35.00:662][872]LogAIModule: Creating AISystem for world Arena
+[2018.01.27-15.35.00:663][872]LogPlayLevel: PIE: World Init took: (0.001034s)
+[2018.01.27-15.35.00:663][872]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Arena.Arena to /Game/Level/UEDPIE_0_Arena.Arena (0.055742s)
+[2018.01.27-15.35.00:716][872]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.27-15.35.00:722][872]LogWorld: Bringing World /Game/Level/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2018.01.27-23.35.00
+[2018.01.27-15.35.00:723][872]LogWorld: Bringing up level for play took: 0.005875
+[2018.01.27-15.35.00:727][872]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Arena -0.466
+[2018.01.27-15.35.01:583][953]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.35.02:587][ 57]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.35.03:593][158]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.35.04:596][263]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.35.05:602][372]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.35.06:603][480]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.35.07:606][598]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.35.08:613][718]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.35.09:617][837]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.35.10:621][953]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.35.11:627][ 70]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.35.12:629][181]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.35.13:634][290]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.35.14:635][399]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.35.15:639][508]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.35.16:641][624]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.35.17:646][744]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.35.18:650][864]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.35.29:714][ 89]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.35.30:721][198]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.36.09:102][379]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2018.01.27-15.36.10:484][485]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2018.01.27-15.36.11:245][548]Cmd: SELECT NONE
+[2018.01.27-15.36.23:332][834]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BG_Capacitor7)
+[2018.01.27-15.36.24:607][940]LogEditorViewport: Clicking on Actor (LMB): IC_BP_C (IC_BP)
+[2018.01.27-15.36.26:748][127]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BG_RESISTOR3)
+[2018.01.27-15.36.30:066][422]Cmd: SELECT NONE
+[2018.01.27-15.36.45:961][ 41]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.27-15.36.52:328][598]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-15.36.52:344][598]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-15.36.52:344][598]PIE: New page: PIE session: Arena (Jan 28, 2018, 7:36:52 AM)
+[2018.01.27-15.36.52:345][598]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Arena
+[2018.01.27-15.36.52:362][598]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017816s)
+[2018.01.27-15.36.52:363][598]LogAIModule: Creating AISystem for world Arena
+[2018.01.27-15.36.52:364][598]LogPlayLevel: PIE: World Init took: (0.001164s)
+[2018.01.27-15.36.52:364][598]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Arena.Arena to /Game/Level/UEDPIE_0_Arena.Arena (0.019465s)
+[2018.01.27-15.36.52:418][598]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.27-15.36.52:423][598]LogWorld: Bringing World /Game/Level/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2018.01.27-23.36.52
+[2018.01.27-15.36.52:424][598]LogWorld: Bringing up level for play took: 0.005449
+[2018.01.27-15.36.52:427][598]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Arena -0.766
+[2018.01.27-15.36.53:327][687]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.36.53:679][724]Cmd: LevelEditor.ToggleImmersive
+[2018.01.27-15.36.54:334][782]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.36.55:337][889]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.36.56:337][987]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.36.57:345][ 97]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.36.58:351][217]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.36.59:359][337]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.37.00:362][457]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.37.01:367][565]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.37.04:376][883]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.37.05:377][995]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.37.24:599][860]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0017 seconds. Added 1 classes and 0 folders.
+[2018.01.27-15.37.24:602][860]LogMaterial: Missing cached shader map for material Base, compiling. 
+[2018.01.27-15.37.25:217][860]LogMaterial: Missing cached shader map for material Base, compiling. 
+[2018.01.27-15.37.25:242][860]LogMaterial: Missing cached shader map for material Base, compiling. 
+[2018.01.27-15.37.25:325][860]LogSlate: Took 0.026207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.27-15.37.32:135][196]LogMaterial: Missing cached shader map for material Base, compiling. 
+[2018.01.27-15.37.32:157][196]LogMaterial: Missing cached shader map for material Base, compiling. 
+[2018.01.27-15.37.33:663][305]LogMaterial: Missing cached shader map for material Base, compiling. 
+[2018.01.27-15.37.37:536][563]LogMaterial: Missing cached shader map for material Base, compiling. 
+[2018.01.27-15.37.37:557][563]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.01.27-15.37.37:563][563]LogMaterial: Missing cached shader map for material Base, compiling. 
+[2018.01.27-15.37.37:606][563]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.01.27-15.37.41:892][865]LogMaterial: Missing cached shader map for material Base, compiling. 
+[2018.01.27-15.37.41:915][865]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.01.27-15.37.42:604][907]LogMaterialEditor: Saving and Compiling material Base
+[2018.01.27-15.37.43:270][907]LogMaterial: Missing cached shader map for material Base, compiling. 
+[2018.01.27-15.37.43:342][907]LogMaterial: Missing cached shader map for material Base, compiling. 
+[2018.01.27-15.37.43:389][907]LogMaterial: Missing cached shader map for material Base, compiling. 
+[2018.01.27-15.37.43:469][907]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Base, compiling. 
+[2018.01.27-15.37.48:654][907]TextureStreamingBuild: Display: Compiling optional shaders took 5.192 seconds.
+[2018.01.27-15.37.54:148][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Base" FILE="../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Base.uasset" SILENT=true
+[2018.01.27-15.37.54:161][907]LogSavePackage: Save=11.29ms
+[2018.01.27-15.37.54:161][907]LogSavePackage: Moving '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/BaseEA32AA1F497821408D96279B99FA4B2A.tmp' to '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Base.uasset'
+[2018.01.27-15.37.54:162][907]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Base.uasset
+[2018.01.27-15.37.54:304][907]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.01.27-15.37.54:304][907]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.01.27-15.37.54:304][907]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.27-15.37.54:304][907]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.27-15.38.11:664][206]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2018.01.27-15.38.16:150][534]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2018.01.27-15.38.26:233][242]LogMaterial: Warning: Material /Game/Base.Base needed to have new flag set bUsedWithStaticLighting !
+[2018.01.27-15.38.26:236][242]LogMaterial: Missing cached shader map for material Base, compiling. 
+[2018.01.27-15.39.22:848][196]Cmd: SELECT NONE
+[2018.01.27-15.39.49:444][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Arena" FILE="../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.27-15.39.49:958][110]LogSavePackage: Save=478.26ms
+[2018.01.27-15.39.49:958][110]LogSavePackage: Moving '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/ArenaC4CFC6634C977BABBBC7119CEC34FB3C.tmp' to '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena.umap'
+[2018.01.27-15.39.49:960][110]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena.umap
+[2018.01.27-15.39.50:060][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Arena_BuiltData" FILE="../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena_BuiltData.uasset" SILENT=true
+[2018.01.27-15.39.50:988][110]LogSavePackage: Save=909.92ms
+[2018.01.27-15.39.50:988][110]LogSavePackage: Moving '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Arena_BuiltData8EFFC1914485ACFAB5531E8FDFC0FC3E.tmp' to '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena_BuiltData.uasset'
+[2018.01.27-15.39.50:990][110]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena_BuiltData.uasset
+[2018.01.27-15.39.59:131][327]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.01.27-15.40.01:937][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Base" FILE="../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Base.uasset" SILENT=true
+[2018.01.27-15.40.01:949][327]LogSavePackage: Save=2.05ms
+[2018.01.27-15.40.01:949][327]LogSavePackage: Moving '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/BaseD725401B4B132546612B108A9AE34222.tmp' to '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Base.uasset'
+[2018.01.27-15.40.01:950][327]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Base.uasset
+[2018.01.27-15.40.01:962][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Walls/Materials/Fence1" FILE="../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Mesh/Walls/Materials/Fence1.uasset" SILENT=true
+[2018.01.27-15.40.01:977][327]LogSavePackage: Save=6.19ms
+[2018.01.27-15.40.01:977][327]LogSavePackage: Moving '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Fence13BB0B7264C8EF093A83BBCB9BEC82EC3.tmp' to '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Mesh/Walls/Materials/Fence1.uasset'
+[2018.01.27-15.40.01:979][327]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Mesh/Walls/Materials/Fence1.uasset
+[2018.01.27-15.41.02:515][327]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.01.27-15.41.02:615][327]SourceControl: [master 1b368e3] 90% level
+[2018.01.27-15.41.02:615][327]SourceControl:  4 files changed, 0 insertions(+), 0 deletions(-)
+[2018.01.27-15.41.02:615][327]SourceControl:  create mode 100644 Content/Base.uasset
+[2018.01.27-15.41.02:615][327]SourceControl:  rewrite Content/Mesh/Walls/Materials/Fence1.uasset (98%)
+[2018.01.27-15.41.02:620][327]SourceControl: Commited [master 1b368e3] 90% level.
+[2018.01.27-15.42.48:243][762]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-15.42.48:263][762]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-15.42.48:263][762]PIE: New page: PIE session: Arena (Jan 28, 2018, 7:42:48 AM)
+[2018.01.27-15.42.48:263][762]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Arena
+[2018.01.27-15.42.48:280][762]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017389s)
+[2018.01.27-15.42.48:281][762]LogAIModule: Creating AISystem for world Arena
+[2018.01.27-15.42.48:282][762]LogPlayLevel: PIE: World Init took: (0.001182s)
+[2018.01.27-15.42.48:282][762]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Arena.Arena to /Game/Level/UEDPIE_0_Arena.Arena (0.019007s)
+[2018.01.27-15.42.48:328][762]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.27-15.42.48:333][762]LogWorld: Bringing World /Game/Level/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2018.01.27-23.42.48
+[2018.01.27-15.42.48:333][762]LogWorld: Bringing up level for play took: 0.005279
+[2018.01.27-15.42.48:337][762]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Arena -0.856
+[2018.01.27-15.42.49:241][848]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.42.50:154][945]Cmd: LevelEditor.ToggleImmersive
+[2018.01.27-15.42.50:245][947]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.42.51:245][ 57]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.42.52:252][177]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.42.53:259][297]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.42.57:061][701]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.27-15.42.59:114][862]LogMaterial: Missing cached shader map for material Base, compiling. 
+[2018.01.27-15.42.59:209][862]LogMaterial: Missing cached shader map for material Base, compiling. 
+[2018.01.27-15.42.59:236][862]LogMaterial: Missing cached shader map for material Base, compiling. 
+[2018.01.27-15.42.59:283][862]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.01.27-15.43.36:959][ 52]LogMaterial: Missing cached shader map for material Base, compiling. 
+[2018.01.27-15.43.36:998][ 52]LogMaterial: Missing cached shader map for material Base, compiling. 
+[2018.01.27-15.43.38:373][134]LogMaterialEditor: Saving and Compiling material Base
+[2018.01.27-15.43.39:003][134]LogMaterial: Missing cached shader map for material Base, compiling. 
+[2018.01.27-15.43.39:067][134]LogMaterial: Missing cached shader map for material Base, compiling. 
+[2018.01.27-15.43.39:120][134]LogMaterial: Missing cached shader map for material Base, compiling. 
+[2018.01.27-15.43.39:180][134]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Base, compiling. 
+[2018.01.27-15.43.45:183][134]TextureStreamingBuild: Display: Compiling optional shaders took 6.008 seconds.
+[2018.01.27-15.43.53:571][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Base" FILE="../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Base.uasset" SILENT=true
+[2018.01.27-15.43.53:592][134]LogSavePackage: Save=11.05ms
+[2018.01.27-15.43.53:592][134]LogSavePackage: Moving '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Base858D50B34EF912CD2C2B34888F43ECE2.tmp' to '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Base.uasset'
+[2018.01.27-15.43.53:593][134]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Base.uasset
+[2018.01.27-15.43.53:609][134]MaterialEditorStats: Base pass shader: 103 instructions
+[2018.01.27-15.43.53:609][134]MaterialEditorStats: Base pass shader with Surface Lightmap: 120 instructions
+[2018.01.27-15.43.53:609][134]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2018.01.27-15.43.53:609][134]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.27-15.43.53:609][134]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.27-15.44.25:534][423]LogRenderer: Reallocating scene render targets to support 1368x728 Format 10 NumSamples 1 (Frame:322467).
+[2018.01.27-15.44.26:064][457]LogContentStreaming: Texture pool size now 3000 MB
+[2018.01.27-15.44.37:606][549]Cmd: SELECT NONE
+[2018.01.27-15.45.00:897][430]LogRenderer: Reallocating scene render targets to support 1368x728 Format 9 NumSamples 1 (Frame:325491).
+[2018.01.27-15.45.00:925][432]LogContentStreaming: Texture pool size now 400 MB
+[2018.01.27-15.46.45:929][256]LogRenderer: Reallocating scene render targets to support 1368x728 Format 9 NumSamples 1 (Frame:329157).
+[2018.01.27-15.46.46:217][277]LogContentStreaming: Texture pool size now 3000 MB
+[2018.01.27-15.46.47:308][331]LogRenderer: Reallocating scene render targets to support 1368x728 Format 10 NumSamples 1 (Frame:329231).
+[2018.01.27-15.46.51:385][609]LogRenderer: Reallocating scene render targets to support 1368x728 Format 10 NumSamples 1 (Frame:329509).
+[2018.01.27-15.46.53:726][815]LogRenderer: Reallocating scene render targets to support 1368x728 Format 10 NumSamples 1 (Frame:329715).
+[2018.01.27-15.46.55:901][985]LogRenderer: Reallocating scene render targets to support 1368x728 Format 10 NumSamples 1 (Frame:329885).
+[2018.01.27-15.46.57:576][135]LogRenderer: Reallocating scene render targets to support 1368x728 Format 10 NumSamples 1 (Frame:330035).
+[2018.01.27-15.46.59:030][250]LogRenderer: Reallocating scene render targets to support 1368x728 Format 10 NumSamples 1 (Frame:330150).
+[2018.01.27-15.46.59:854][320]LogContentStreaming: Texture pool size now 400 MB
+[2018.01.27-15.47.01:552][467]LogContentStreaming: Texture pool size now 3000 MB
+[2018.01.27-15.47.02:862][579]LogContentStreaming: Texture pool size now 400 MB
+[2018.01.27-15.47.05:858][789]LogRenderer: Reallocating scene render targets to support 1368x728 Format 9 NumSamples 1 (Frame:330688).
+[2018.01.27-15.47.09:302][110]LogRenderer: Reallocating scene render targets to support 1368x728 Format 9 NumSamples 1 (Frame:331009).
+[2018.01.27-15.47.09:767][146]LogContentStreaming: Texture pool size now 3000 MB
+[2018.01.27-15.47.10:563][178]LogRenderer: Reallocating scene render targets to support 1368x728 Format 10 NumSamples 1 (Frame:331076).
+[2018.01.27-15.47.41:249][361]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-15.47.41:269][361]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-15.47.41:269][361]PIE: New page: PIE session: Arena (Jan 28, 2018, 7:47:41 AM)
+[2018.01.27-15.47.41:269][361]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Arena
+[2018.01.27-15.47.41:287][361]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017824s)
+[2018.01.27-15.47.41:288][361]LogAIModule: Creating AISystem for world Arena
+[2018.01.27-15.47.41:288][361]LogPlayLevel: PIE: World Init took: (0.001225s)
+[2018.01.27-15.47.41:289][361]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Arena.Arena to /Game/Level/UEDPIE_0_Arena.Arena (0.019577s)
+[2018.01.27-15.47.41:333][361]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.27-15.47.41:339][361]LogWorld: Bringing World /Game/Level/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2018.01.27-23.47.41
+[2018.01.27-15.47.41:340][361]LogWorld: Bringing up level for play took: 0.005700
+[2018.01.27-15.47.41:343][361]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Arena 0.151
+[2018.01.27-15.47.42:242][449]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.47.42:646][490]Cmd: LevelEditor.ToggleImmersive
+[2018.01.27-15.47.43:243][542]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.47.44:250][662]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.47.45:259][782]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.47.46:264][902]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.47.47:270][ 22]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.47.48:277][142]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.47.49:284][262]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.48.05:992][553]LogActorFactory: Actor Factory created Perceptor
+[2018.01.27-15.48.06:359][583]LogActorFactory: Actor Factory created Perceptor
+[2018.01.27-15.48.19:766][673]LogActorFactory: Actor Factory created HighWind
+[2018.01.27-15.48.21:033][781]LogActorFactory: Actor Factory created HighWind
+[2018.01.27-15.48.23:206][964]Cmd: SELECT NONE
+[2018.01.27-15.48.30:339][628]LogActorFactory: Actor Factory created Deceptor
+[2018.01.27-15.48.31:159][699]LogActorFactory: Actor Factory created Deceptor
+[2018.01.27-15.48.36:258][102]Cmd: SELECT NONE
+[2018.01.27-15.48.37:227][198]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-15.48.37:246][198]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-15.48.37:246][198]PIE: New page: PIE session: Arena (Jan 28, 2018, 7:48:37 AM)
+[2018.01.27-15.48.37:246][198]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Arena
+[2018.01.27-15.48.37:263][198]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016843s)
+[2018.01.27-15.48.37:264][198]LogAIModule: Creating AISystem for world Arena
+[2018.01.27-15.48.37:264][198]LogPlayLevel: PIE: World Init took: (0.001081s)
+[2018.01.27-15.48.37:264][198]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Arena.Arena to /Game/Level/UEDPIE_0_Arena.Arena (0.018409s)
+[2018.01.27-15.48.37:313][198]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.27-15.48.37:318][198]LogWorld: Bringing World /Game/Level/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2018.01.27-23.48.37
+[2018.01.27-15.48.37:319][198]LogWorld: Bringing up level for play took: 0.005629
+[2018.01.27-15.48.37:322][198]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Arena 0.13
+[2018.01.27-15.48.38:217][277]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.48.39:221][375]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.48.40:227][473]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.48.41:235][571]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.48.42:240][669]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.48.43:247][767]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.48.44:251][866]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.48.45:261][967]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.48.46:270][ 66]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.48.47:220][161]Cmd: LevelEditor.ToggleImmersive
+[2018.01.27-15.48.47:305][163]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.48.48:316][247]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.48.49:325][337]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.48.50:325][426]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.48.51:330][527]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.48.52:332][630]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.48.53:335][721]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.48.58:363][203]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.48.59:370][307]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.49.08:590][128]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Perceptor)
+[2018.01.27-15.49.13:874][598]Cmd: DELETE
+[2018.01.27-15.49.13:874][598]Cmd: ACTOR DELETE
+[2018.01.27-15.49.13:882][598]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-15.49.13:901][598]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.01.27-15.49.14:890][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HighWind)
+[2018.01.27-15.49.22:778][243]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2018.01.27-15.49.23:988][335]Cmd: DELETE
+[2018.01.27-15.49.23:988][335]Cmd: ACTOR DELETE
+[2018.01.27-15.49.23:994][335]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-15.49.24:010][335]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2018.01.27-15.49.24:737][386]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2018.01.27-15.49.25:244][419]Cmd: DELETE
+[2018.01.27-15.49.25:244][419]Cmd: ACTOR DELETE
+[2018.01.27-15.49.25:251][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-15.49.25:268][419]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2018.01.27-15.49.25:908][484]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.27-15.49.27:323][599]Cmd: DELETE
+[2018.01.27-15.49.27:324][599]Cmd: ACTOR DELETE
+[2018.01.27-15.49.27:329][599]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-15.49.27:347][599]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2018.01.27-15.49.27:799][645]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2018.01.27-15.49.48:294][295]Cmd: SELECT NONE
+[2018.01.27-15.49.50:824][527]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-15.49.50:844][527]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-15.49.50:844][527]PIE: New page: PIE session: Arena (Jan 28, 2018, 7:49:50 AM)
+[2018.01.27-15.49.50:844][527]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Arena
+[2018.01.27-15.49.50:909][527]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064728s)
+[2018.01.27-15.49.50:910][527]LogAIModule: Creating AISystem for world Arena
+[2018.01.27-15.49.50:910][527]LogPlayLevel: PIE: World Init took: (0.000990s)
+[2018.01.27-15.49.50:911][527]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Arena.Arena to /Game/Level/UEDPIE_0_Arena.Arena (0.066142s)
+[2018.01.27-15.49.50:955][527]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.27-15.49.50:960][527]LogWorld: Bringing World /Game/Level/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2018.01.27-23.49.50
+[2018.01.27-15.49.50:961][527]LogWorld: Bringing up level for play took: 0.005391
+[2018.01.27-15.49.50:965][527]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Arena -0.228
+[2018.01.27-15.49.51:819][599]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.49.52:237][642]Cmd: LevelEditor.ToggleImmersive
+[2018.01.27-15.49.52:824][688]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.49.53:826][790]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.49.54:827][904]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.49.55:829][998]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.49.56:831][ 79]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.49.57:834][176]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.49.58:840][281]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.49.59:843][394]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.50.00:848][500]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.50.01:851][604]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.50.02:852][715]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.50.03:851][804]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.50.04:859][894]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.50.05:861][990]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.50.07:623][111]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Deceptor)
+[2018.01.27-15.50.11:287][301]LogMaterial: Missing cached shader map for material Dec_M, compiling. 
+[2018.01.27-15.50.11:383][301]LogMaterial: Missing cached shader map for material Dec_M, compiling. 
+[2018.01.27-15.50.11:404][301]LogMaterial: Missing cached shader map for material Dec_M, compiling. 
+[2018.01.27-15.50.11:665][305]LogSlate: Took 0.013215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.27-15.50.25:254][957]Cmd: SELECT NONE
+[2018.01.27-15.50.26:114][ 16]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-15.50.26:163][ 16]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-15.50.26:163][ 16]PIE: New page: PIE session: Arena (Jan 28, 2018, 7:50:26 AM)
+[2018.01.27-15.50.26:163][ 16]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Arena
+[2018.01.27-15.50.26:179][ 16]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016110s)
+[2018.01.27-15.50.26:180][ 16]LogAIModule: Creating AISystem for world Arena
+[2018.01.27-15.50.26:180][ 16]LogPlayLevel: PIE: World Init took: (0.000825s)
+[2018.01.27-15.50.26:180][ 16]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Arena.Arena to /Game/Level/UEDPIE_0_Arena.Arena (0.017271s)
+[2018.01.27-15.50.26:251][ 16]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.27-15.50.26:256][ 16]LogWorld: Bringing World /Game/Level/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2018.01.27-23.50.26
+[2018.01.27-15.50.26:257][ 16]LogWorld: Bringing up level for play took: 0.005164
+[2018.01.27-15.50.26:260][ 16]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Arena 1.067
+[2018.01.27-15.50.27:107][ 74]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.50.28:124][143]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.50.29:126][212]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.50.30:132][283]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.50.31:142][356]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.50.32:149][432]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.50.33:160][504]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.50.34:170][580]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.50.35:178][651]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.50.36:193][723]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.50.37:195][797]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.50.39:547][950]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Deceptor)
+[2018.01.27-15.50.48:964][530]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Deceptor)
+[2018.01.27-15.50.51:828][723]Cmd: SELECT NONE
+[2018.01.27-15.50.52:693][785]Cmd: SELECT NONE
+[2018.01.27-15.50.58:992][251]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HighWind)
+[2018.01.27-15.51.06:808][753]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-15.51.06:824][753]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-15.51.06:824][753]PIE: New page: PIE session: Arena (Jan 28, 2018, 7:51:06 AM)
+[2018.01.27-15.51.06:825][753]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Arena
+[2018.01.27-15.51.06:841][753]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015886s)
+[2018.01.27-15.51.06:841][753]LogAIModule: Creating AISystem for world Arena
+[2018.01.27-15.51.06:841][753]LogPlayLevel: PIE: World Init took: (0.000790s)
+[2018.01.27-15.51.06:842][753]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Arena.Arena to /Game/Level/UEDPIE_0_Arena.Arena (0.017041s)
+[2018.01.27-15.51.06:900][753]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.27-15.51.06:906][753]LogWorld: Bringing World /Game/Level/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2018.01.27-23.51.06
+[2018.01.27-15.51.06:906][753]LogWorld: Bringing up level for play took: 0.005148
+[2018.01.27-15.51.06:909][753]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Arena -0.284
+[2018.01.27-15.51.07:800][816]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.51.08:110][838]Cmd: LevelEditor.ToggleImmersive
+[2018.01.27-15.51.08:804][878]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.51.09:825][961]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.51.10:845][ 45]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.51.11:853][130]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.51.12:864][209]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.51.13:866][293]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.51.14:880][380]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-15.51.17:820][587]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HighWind)
+[2018.01.27-15.51.21:966][818]Cmd: SELECT NONE
+[2018.01.27-15.51.23:980][950]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HighWind)
+[2018.01.27-15.51.35:623][812]Cmd: DELETE
+[2018.01.27-15.51.35:623][812]Cmd: ACTOR DELETE
+[2018.01.27-15.51.35:628][812]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-15.51.35:643][812]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2018.01.27-15.51.36:029][831]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Deceptor)
+[2018.01.27-15.51.36:899][891]Cmd: DELETE
+[2018.01.27-15.51.36:899][891]Cmd: ACTOR DELETE
+[2018.01.27-15.51.36:905][891]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-15.51.36:932][891]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2018.01.27-15.52.57:577][667]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor8)
+[2018.01.27-15.53.34:212][126]MapCheck: New page: Map Check
+[2018.01.27-15.53.34:228][126]Cmd: MAP REBUILD ALLVISIBLE
+[2018.01.27-15.53.34:229][126]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.01.27-15.53.34:312][126]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.01.27-15.53.34:321][126]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_1440, compiling. 
+[2018.01.27-15.53.34:330][126]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Base, compiling. 
+[2018.01.27-15.53.34:345][126]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Body, compiling. 
+[2018.01.27-15.53.34:352][126]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Steam, compiling. 
+[2018.01.27-15.53.34:367][126]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy shades, compiling. 
+[2018.01.27-15.53.34:374][126]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Feet, compiling. 
+[2018.01.27-15.53.34:381][126]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy ResistorBody, compiling. 
+[2018.01.27-15.53.34:395][126]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lambert1, compiling. 
+[2018.01.27-15.53.34:402][126]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy ResistorHandle, compiling. 
+[2018.01.27-15.53.34:410][126]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy ResistorHead, compiling. 
+[2018.01.27-15.53.34:419][126]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BG_Capacitor1, compiling. 
+[2018.01.27-15.53.34:434][126]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.01.27-15.53.34:447][126]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BG_Capacitor, compiling. 
+[2018.01.27-15.53.34:455][126]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy PCBDrills, compiling. 
+[2018.01.27-15.53.34:463][126]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy PCBBed, compiling. 
+[2018.01.27-15.53.34:476][126]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lambert1, compiling. 
+[2018.01.27-15.53.34:487][126]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy PCBDeck, compiling. 
+[2018.01.27-15.53.34:499][126]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy PCBHead, compiling. 
+[2018.01.27-15.53.34:506][126]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy NewMaterial, compiling. 
+[2018.01.27-15.53.34:521][126]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Fence1, compiling. 
+[2018.01.27-15.53.34:529][126]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Post1, compiling. 
+[2018.01.27-15.53.40:886][126]TextureStreamingBuild: Display: Compiling optional shaders took 6.580 seconds.
+[2018.01.27-15.53.40:909][126]LogLevel: Display: Export Material TexCoord Scales took 0.023 seconds.
+[2018.01.27-15.53.40:965][126]TextureStreamingBuild: Display: Build Texture Streaming took 0.056 seconds.
+[2018.01.27-15.53.40:983][126]LightingResults: New page: Lighting Build - Jan 28, 2018, 7:53:40 AM
+[2018.01.27-15.53.40:994][126]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.01.27-15.53.40:997][126]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.01.27-15.53.40:997][126]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.01.27-15.53.40:998][126]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.01.27-15.53.40:998][126]LogSwarmInterface: [TryOpenConnection] Local Process ID is 2688
+[2018.01.27-15.53.45:508][126]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.01.27-15.53.45:508][126]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.01.27-15.53.45:508][126]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.01.27-15.53.45:508][126]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.01.27-15.53.45:508][126]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.01.27-15.53.45:613][126]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.01.27-15.53.45:613][126]MapCheck: New page: Arena - Jan 28, 2018, 7:53:45 AM
+[2018.01.27-15.53.45:615][126]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.01.27-15.53.45:713][126]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 100.74ms to complete.
+[2018.01.27-15.53.45:736][126]LogEditorBuildUtils: Build time 0:11
+[2018.01.27-15.53.45:992][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Arena" FILE="../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Autosaves/Game/Level/Arena_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.01.27-15.53.46:467][127]LogSavePackage: Save=433.69ms
+[2018.01.27-15.53.46:467][127]LogSavePackage: Moving '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Arena_Auto2A8C33548492E6B8D600C8CBBD6FC468F.tmp' to '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Autosaves/Game/Level/Arena_Auto2.umap'
+[2018.01.27-15.53.46:468][127]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Autosaves/Game/Level/Arena_Auto2.umap
+[2018.01.27-15.53.46:470][127]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level/Arena' took 0.516
+[2018.01.27-15.53.46:470][127]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.516
+[2018.01.27-15.53.46:483][127]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Base, compiling. 
+[2018.01.27-15.53.46:490][127]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Base, compiling. 
+[2018.01.27-15.53.46:508][128]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Fence1, compiling. 
+[2018.01.27-15.53.46:516][128]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Fence1, compiling. 
+[2018.01.27-15.53.46:536][129]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Post1, compiling. 
+[2018.01.27-15.53.46:545][129]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Post1, compiling. 
+[2018.01.27-15.54.52:721][695]Cmd: SELECT NONE
+[2018.01.27-15.55.32:519][434]Job is a success!
+[2018.01.27-15.55.32:627][435]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.018s
+[2018.01.27-15.55.32:627][435]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.01.27-15.55.32:627][435]LogVolumetricLightmapImport:      BrickData 945x5x5 = 0.7Mb
+[2018.01.27-15.55.32:627][435]LogVolumetricLightmapImport:      Bricks at Level
+[2018.01.27-15.55.32:627][435]LogVolumetricLightmapImport:          0: 0.5% covering 100.0% of volume
+[2018.01.27-15.55.32:627][435]LogVolumetricLightmapImport:          1: 5.3% covering 15.6% of volume
+[2018.01.27-15.55.32:627][435]LogVolumetricLightmapImport:          2: 94.2% covering 4.3% of volume
+[2018.01.27-15.55.35:325][435]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.01.27-15.55.35:325][435]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.01.27-15.55.35:325][435]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2018.01.27-15.55.35:325][435]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2018.01.27-15.55.35:325][435]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 512X512)
+[2018.01.27-15.55.35:325][435]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 512X512)
+[2018.01.27-15.55.35:326][435]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 512X512)
+[2018.01.27-15.55.35:326][435]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 512X512)
+[2018.01.27-15.55.35:326][435]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 512X512)
+[2018.01.27-15.55.35:326][435]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 512X512)
+[2018.01.27-15.55.35:326][435]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 512X512)
+[2018.01.27-15.55.35:326][435]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 512X512)
+[2018.01.27-15.55.35:326][435]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 128X128)
+[2018.01.27-15.55.35:326][435]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 128X128)
+[2018.01.27-15.55.35:326][435]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 64X64)
+[2018.01.27-15.55.35:326][435]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 64X64)
+[2018.01.27-15.55.35:505][435]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X512)
+[2018.01.27-15.55.35:585][435]LogStaticLightingSystem: Illumination: 1:54 min (2.54 sec encoding lightmaps, 174 ms encoding shadowmaps)
+[2018.01.27-15.55.35:585][435]LogStaticLightingSystem: Lightmap texture memory:  4.5 MB (4.5 MB streaming, 0.0 MB non-streaming), 16 textures
+[2018.01.27-15.55.35:585][435]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 1 textures
+[2018.01.27-15.55.35:628][435]DumpUnbuiltLightIteractions
+[2018.01.27-15.55.35:628][435]Lights with unbuilt interactions: 0
+[2018.01.27-15.55.35:628][435]
+[2018.01.27-15.55.35:628][435]Primitives with unbuilt interactions: 0
+[2018.01.27-15.55.35:634][436]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.01.27-15.55.35:634][436]MapCheck: New page: Arena - Jan 28, 2018, 7:55:35 AM
+[2018.01.27-15.55.35:713][436]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 78.745ms to complete.
+[2018.01.27-15.56.23:296][454]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube16)
+[2018.01.27-15.56.23:820][505]Cmd: SELECT NONE
+[2018.01.27-15.56.28:197][934]LogEditorViewport: Clicking on Actor (LMB): IC_BP_C (IC_BP)
+[2018.01.27-15.56.28:897][982]Cmd: SELECT NONE
+[2018.01.27-15.57.15:600][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Arena" FILE="../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.27-15.57.16:025][599]LogSavePackage: Save=403.28ms
+[2018.01.27-15.57.16:025][599]LogSavePackage: Moving '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Arena216AD9C446DDDE4BC3A012BB2C72B27B.tmp' to '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena.umap'
+[2018.01.27-15.57.16:026][599]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena.umap
+[2018.01.27-15.57.16:057][599]LogFileHelpers: Saving map 'Arena' took 0.527
+[2018.01.27-15.57.16:060][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Arena_BuiltData" FILE="../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena_BuiltData.uasset" SILENT=true
+[2018.01.27-15.57.16:965][599]LogSavePackage: Save=760.88ms
+[2018.01.27-15.57.16:965][599]LogSavePackage: Moving '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Arena_BuiltDataE64EEF75433EB103784551B11FD49B8D.tmp' to '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena_BuiltData.uasset'
+[2018.01.27-15.57.16:968][599]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Level/Arena_BuiltData.uasset
+[2018.01.27-15.57.17:001][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Walls/Materials/Post1" FILE="../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Mesh/Walls/Materials/Post1.uasset" SILENT=true
+[2018.01.27-15.57.17:025][599]LogSavePackage: Save=16.34ms
+[2018.01.27-15.57.17:025][599]LogSavePackage: Moving '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Post1869AE519431AEAF7491BD99B8F554561.tmp' to '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Mesh/Walls/Materials/Post1.uasset'
+[2018.01.27-15.57.17:027][599]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Mesh/Walls/Materials/Post1.uasset
+[2018.01.27-15.57.19:032][774]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.01.27-15.57.24:769][774]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.01.27-15.57.24:950][774]SourceControl: [master 0f008f3] adad
+[2018.01.27-15.57.24:950][774]SourceControl:  4 files changed, 0 insertions(+), 0 deletions(-)
+[2018.01.27-15.57.24:950][774]SourceControl:  rewrite Content/Base.uasset (98%)
+[2018.01.27-15.57.24:953][774]SourceControl: Commited [master 0f008f3] adad.
+[2018.01.27-15.58.58:827][206]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 116 classes and 0 folders.
+[2018.01.27-15.59.40:568][282]Cmd: SELECT NONE
+[2018.01.27-16.02.39:121][761]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BG_RESISTOR9)
+[2018.01.27-16.02.41:863][983]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PCB13)
+[2018.01.27-16.02.42:667][ 28]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PCB9)
+[2018.01.27-16.02.43:260][ 78]Cmd: SELECT NONE
+[2018.01.27-16.06.41:986][609]LogEditorViewport: Clicking on Actor (LMB): IC_BP_C (IC_BP)
+[2018.01.27-16.06.56:921][613]LogActorFactory: Actor Factory created Deceptor
+[2018.01.27-16.06.57:545][668]LogActorFactory: Actor Factory created Deceptor
+[2018.01.27-16.07.04:772][ 74]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Deceptor)
+[2018.01.27-16.07.05:106][ 98]Cmd: DELETE
+[2018.01.27-16.07.05:106][ 98]Cmd: ACTOR DELETE
+[2018.01.27-16.07.05:112][ 98]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-16.07.05:144][ 98]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2018.01.27-16.07.23:905][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Deceptor/Deceptor" FILE="../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Mesh/Deceptor/Deceptor.uasset" SILENT=true
+[2018.01.27-16.07.23:929][ 37]LogSavePackage: Save=14.08ms
+[2018.01.27-16.07.23:929][ 37]LogSavePackage: Moving '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Deceptor12676B3146C1E924FBB0AE98BD69D34C.tmp' to '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Mesh/Deceptor/Deceptor.uasset'
+[2018.01.27-16.07.23:931][ 37]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/Mesh/Deceptor/Deceptor.uasset
+[2018.01.27-16.08.07:937][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Arena" FILE="../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Autosaves/Game/Level/Arena_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.01.27-16.08.08:370][444]LogSavePackage: Save=423.68ms
+[2018.01.27-16.08.08:370][444]LogSavePackage: Moving '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Arena_Auto37604604D42389DAE750ED5B863BE787B.tmp' to '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Autosaves/Game/Level/Arena_Auto3.umap'
+[2018.01.27-16.08.08:372][444]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Autosaves/Game/Level/Arena_Auto3.umap
+[2018.01.27-16.08.08:374][444]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level/Arena' took 0.461
+[2018.01.27-16.08.08:374][444]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.461
+[2018.01.27-16.08.08:376][444]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/NewBlueprint] ([1] browsable assets)...
+[2018.01.27-16.08.08:376][444]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/NewBlueprint]
+[2018.01.27-16.08.08:376][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/NewBlueprint" FILE="../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Autosaves/Game/AI/NewBlueprint_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.01.27-16.08.08:409][444]LogSavePackage: Save=29.87ms
+[2018.01.27-16.08.08:409][444]LogSavePackage: Moving '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/NewBlueprint_Auto3DD90D62D470D2D87CF966CB65752060B.tmp' to '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Autosaves/Game/AI/NewBlueprint_Auto3.uasset'
+[2018.01.27-16.08.08:410][444]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Autosaves/Game/AI/NewBlueprint_Auto3.uasset
+[2018.01.27-16.08.08:410][444]LogFileHelpers: Auto-saving content packages took 0.035
+[2018.01.27-16.08.15:430][171]SourceControl: On branch master
+[2018.01.27-16.08.15:430][171]SourceControl: Your branch is up to date with 'origin/master'.
+[2018.01.27-16.08.15:430][171]SourceControl: Changes not staged for commit:
+[2018.01.27-16.08.15:430][171]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2018.01.27-16.08.15:430][171]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.01.27-16.08.15:430][171]SourceControl: 	modified:   Content/Mesh/Deceptor/Deceptor.uasset
+[2018.01.27-16.08.15:430][171]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2018.01.27-16.08.15:653][171]LogMetaData: Removing '/Game/AI/DeceptorAI.DeceptorAI:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/AI/NewBlueprint.PackageMetaData'
+[2018.01.27-16.08.15:653][171]LogMetaData: Removing '/Game/AI/DeceptorAI.SKEL_DeceptorAI_C' ref from Metadata '/Game/AI/NewBlueprint.PackageMetaData'
+[2018.01.27-16.08.15:653][171]LogMetaData: Removing '/Game/AI/DeceptorAI.DeceptorAI_C' ref from Metadata '/Game/AI/NewBlueprint.PackageMetaData'
+[2018.01.27-16.08.15:653][171]LogMetaData: Removing '/Game/AI/DeceptorAI.DeceptorAI:EventGraph.K2Node_Event_0' ref from Metadata '/Game/AI/NewBlueprint.PackageMetaData'
+[2018.01.27-16.08.15:653][171]LogMetaData: Removing '/Game/AI/DeceptorAI.DeceptorAI:EventGraph.K2Node_Event_1' ref from Metadata '/Game/AI/NewBlueprint.PackageMetaData'
+[2018.01.27-16.08.15:653][171]LogMetaData: Removing '/Game/AI/DeceptorAI.DeceptorAI:EventGraph.K2Node_Event_2' ref from Metadata '/Game/AI/NewBlueprint.PackageMetaData'
+[2018.01.27-16.08.15:700][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/DeceptorAI" FILE="../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/AI/DeceptorAI.uasset" SILENT=true
+[2018.01.27-16.08.15:714][171]LogSavePackage: Save=12.05ms
+[2018.01.27-16.08.15:714][171]LogSavePackage: Moving '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/DeceptorAIE2537FAC49F8CDCDF6758AB442ACA004.tmp' to '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/AI/DeceptorAI.uasset'
+[2018.01.27-16.08.15:715][171]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/PC9/Documents/GitHub/ProjectX/Content/AI/DeceptorAI.uasset
+[2018.01.27-16.09.47:039][371]BlueprintLog: New page: Compile DeceptorAI
+[2018.01.27-16.12.57:703][341]BlueprintLog: New page: Compile DeceptorAI
+[2018.01.27-16.14.26:614][780]LogEditorViewport: Clicking on Actor (LMB): IC_BP_C (IC_BP)
+[2018.01.27-16.15.02:283][646]BlueprintLog: New page: Compile DeceptorAI
+[2018.01.27-16.15.02:302][646]LogBlueprint: Warning: [Compiler DeceptorAI] 'IC BP' does not inherit from 'Pawn' ( Cast To IC_BP  would always fail).
+[2018.01.27-16.15.02:664][646]LogBlueprint: Warning: [Compiler DeceptorAI] [6172.74] Compile of DeceptorAI successful, but with 1 Warning(s) [in 380 ms] (/Game/AI/DeceptorAI.DeceptorAI)
+[2018.01.27-16.16.10:200][959]BlueprintLog: New page: Compile IC_actor
+[2018.01.27-16.16.22:346][791]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.01.27-16.16.47:071][719]BlueprintLog: New page: Compile IC_pawn
+[2018.01.27-16.17.12:911][982]BlueprintLog: New page: Compile IC_pawn
+[2018.01.27-16.17.21:420][470]BlueprintLog: New page: Compile IC_pawn
+[2018.01.27-16.17.23:329][582]LogEditorViewport: Clicking on Actor (LMB): IC_BP_C (IC_BP)
+[2018.01.27-16.17.24:653][688]Cmd: DELETE
+[2018.01.27-16.17.24:653][688]Cmd: ACTOR DELETE
+[2018.01.27-16.17.24:676][688]LogEditorActor: Deleted Actor: IC_BP_C
+[2018.01.27-16.17.24:697][688]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2018.01.27-16.17.25:138][726]LogEditorViewport: Clicking on Actor (LMB): IC_pawn_C (IC_pawn)
+[2018.01.27-16.17.33:476][390]Cmd: SELECT NONE
+[2018.01.27-16.18.00:345][883]BlueprintLog: New page: Compile DeceptorAI
+[2018.01.27-16.18.15:871][634]BlueprintLog: New page: Compile DeceptorAI
+[2018.01.27-16.18.32:401][726]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-16.18.32:427][726]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-16.18.32:428][726]PIE: New page: PIE session: Arena (Jan 28, 2018, 8:18:32 AM)
+[2018.01.27-16.18.32:428][726]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Arena
+[2018.01.27-16.18.32:505][726]LogPlayLevel: PIE: StaticDuplicateObject took: (0.077544s)
+[2018.01.27-16.18.32:506][726]LogAIModule: Creating AISystem for world Arena
+[2018.01.27-16.18.32:506][726]LogPlayLevel: PIE: World Init took: (0.001331s)
+[2018.01.27-16.18.32:507][726]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Arena.Arena to /Game/Level/UEDPIE_0_Arena.Arena (0.079276s)
+[2018.01.27-16.18.32:573][726]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.27-16.18.32:579][726]LogWorld: Bringing World /Game/Level/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2018.01.28-00.18.32
+[2018.01.27-16.18.32:688][726]LogWorld: Bringing up level for play took: 0.115599
+[2018.01.27-16.18.32:715][726]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Arena -0.478
+[2018.01.27-16.18.33:437][780]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.18.34:442][874]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.18.35:452][969]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.18.36:459][ 66]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.18.37:460][166]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.18.38:465][264]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.18.39:465][362]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.18.43:488][733]LogEditorViewport: Clicking on Actor (LMB): DeceptorAI_C (DeceptorAI)
+[2018.01.27-16.18.53:388][501]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-16.18.53:407][501]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-16.18.53:407][501]PIE: New page: PIE session: Arena (Jan 28, 2018, 8:18:53 AM)
+[2018.01.27-16.18.53:407][501]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Arena
+[2018.01.27-16.18.53:467][501]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060469s)
+[2018.01.27-16.18.53:468][501]LogAIModule: Creating AISystem for world Arena
+[2018.01.27-16.18.53:469][501]LogPlayLevel: PIE: World Init took: (0.001081s)
+[2018.01.27-16.18.53:469][501]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Arena.Arena to /Game/Level/UEDPIE_0_Arena.Arena (0.062137s)
+[2018.01.27-16.18.53:531][501]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.27-16.18.53:537][501]LogWorld: Bringing World /Game/Level/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2018.01.28-00.18.53
+[2018.01.27-16.18.53:538][501]LogWorld: Bringing up level for play took: 0.005585
+[2018.01.27-16.18.53:541][501]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Arena 0.349
+[2018.01.27-16.18.54:379][579]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.18.55:382][679]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.18.57:986][925]LogEditorViewport: Clicking on Actor (LMB): DeceptorAI_C (DeceptorAI)
+[2018.01.27-16.20.11:251][470]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2018.01.27-16.20.12:352][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Arena" FILE="../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Autosaves/Game/Level/Arena_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.01.27-16.20.12:841][550]LogSavePackage: Save=474.21ms
+[2018.01.27-16.20.12:841][550]LogSavePackage: Moving '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Arena_Auto48BD33C674310F3520EABE1A13DDE28F6.tmp' to '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Autosaves/Game/Level/Arena_Auto4.umap'
+[2018.01.27-16.20.12:842][550]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Autosaves/Game/Level/Arena_Auto4.umap
+[2018.01.27-16.20.12:843][550]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level/Arena' took 0.522
+[2018.01.27-16.20.12:844][550]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.522
+[2018.01.27-16.20.12:846][550]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/Integrated_Circuit/IC_pawn] ([1] browsable assets)...
+[2018.01.27-16.20.12:866][550]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Mesh/Integrated_Circuit/IC_pawn.IC_pawn]
+[2018.01.27-16.20.12:866][550]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/Integrated_Circuit/IC_pawn]
+[2018.01.27-16.20.12:886][550]LogSavePackage: Save=18.77ms
+[2018.01.27-16.20.12:886][550]LogSavePackage: Moving '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/IC_pawn_Auto428301DFD438C02A8B8C54992C203038C.tmp' to '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Autosaves/Game/Mesh/Integrated_Circuit/IC_pawn_Auto4.uasset'
+[2018.01.27-16.20.12:887][550]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Autosaves/Game/Mesh/Integrated_Circuit/IC_pawn_Auto4.uasset
+[2018.01.27-16.20.12:888][550]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/DeceptorAI] ([1] browsable assets)...
+[2018.01.27-16.20.12:907][550]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/DeceptorAI.DeceptorAI]
+[2018.01.27-16.20.12:907][550]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/DeceptorAI]
+[2018.01.27-16.20.12:907][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/DeceptorAI" FILE="../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Autosaves/Game/AI/DeceptorAI_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2018.01.27-16.20.12:951][550]LogSavePackage: Save=36.96ms
+[2018.01.27-16.20.12:951][550]LogSavePackage: Moving '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/DeceptorAI_Auto4F3F090AE43A0C41F785F34B0678C0DBB.tmp' to '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Autosaves/Game/AI/DeceptorAI_Auto4.uasset'
+[2018.01.27-16.20.12:952][550]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Autosaves/Game/AI/DeceptorAI_Auto4.uasset
+[2018.01.27-16.20.12:952][550]LogFileHelpers: Auto-saving content packages took 0.107
+[2018.01.27-16.20.18:088][910]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-16.20.18:106][910]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-16.20.18:107][910]PIE: New page: PIE session: Arena (Jan 28, 2018, 8:20:18 AM)
+[2018.01.27-16.20.18:107][910]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Arena
+[2018.01.27-16.20.18:184][910]LogPlayLevel: PIE: StaticDuplicateObject took: (0.077432s)
+[2018.01.27-16.20.18:185][910]LogAIModule: Creating AISystem for world Arena
+[2018.01.27-16.20.18:185][910]LogPlayLevel: PIE: World Init took: (0.001091s)
+[2018.01.27-16.20.18:186][910]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Arena.Arena to /Game/Level/UEDPIE_0_Arena.Arena (0.079076s)
+[2018.01.27-16.20.18:244][910]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.27-16.20.18:250][910]LogWorld: Bringing World /Game/Level/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2018.01.28-00.20.18
+[2018.01.27-16.20.18:251][910]LogWorld: Bringing up level for play took: 0.006066
+[2018.01.27-16.20.18:253][910]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Arena 1.061
+[2018.01.27-16.20.19:084][978]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.20.20:368][ 36]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.20.21:366][ 39]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.20.22:366][120]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.26.18:728][801]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2018.01.27-16.26.18:757][801]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [6848.83] Compile of ThirdPersonCharacter successful, but with 1 Warning(s) [in 177 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2018.01.27-16.26.53:057][478]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.01.27-16.26.53:638][479]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.01.27-16.26.57:625][480]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.01.27-16.27.06:637][151]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.01.27-16.27.58:448][212]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.01.27-16.28.14:333][782]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.01.27-16.29.23:877][233]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.01.27-16.29.33:345][855]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-16.29.33:431][855]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-16.29.33:443][855]PIE: New page: PIE session: Arena (Jan 28, 2018, 8:29:33 AM)
+[2018.01.27-16.29.33:483][855]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Arena
+[2018.01.27-16.29.33:785][855]LogPlayLevel: PIE: StaticDuplicateObject took: (0.301418s)
+[2018.01.27-16.29.33:786][855]LogAIModule: Creating AISystem for world Arena
+[2018.01.27-16.29.33:786][855]LogPlayLevel: PIE: World Init took: (0.001350s)
+[2018.01.27-16.29.33:787][855]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Arena.Arena to /Game/Level/UEDPIE_0_Arena.Arena (0.312181s)
+[2018.01.27-16.29.34:008][855]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.27-16.29.34:121][855]LogWorld: Bringing World /Game/Level/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2018.01.28-00.29.34
+[2018.01.27-16.29.34:306][855]LogWorld: Bringing up level for play took: 0.194977
+[2018.01.27-16.29.34:579][855]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Arena 1.387
+[2018.01.27-16.29.35:344][904]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.29.36:319][988]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.29.39:056][186]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.01.27-16.29.47:668][750]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2018.01.27-16.29.51:734][ 43]LogEditorViewport: Clicking on Actor (LMB): IC_pawn_C (IC_pawn)
+[2018.01.27-16.30.25:306][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Arena" FILE="../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Autosaves/Game/Level/Arena_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.01.27-16.30.26:110][880]LogSavePackage: Save=460.53ms
+[2018.01.27-16.30.26:110][880]LogSavePackage: Moving '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Arena_Auto5728FE6394F3293560065EEA63AE9E8E6.tmp' to '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Autosaves/Game/Level/Arena_Auto5.umap'
+[2018.01.27-16.30.26:111][880]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Autosaves/Game/Level/Arena_Auto5.umap
+[2018.01.27-16.30.26:120][880]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level/Arena' took 0.906
+[2018.01.27-16.30.26:120][880]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.906
+[2018.01.27-16.30.26:138][880]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2018.01.27-16.30.26:162][880]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2018.01.27-16.30.26:162][880]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2018.01.27-16.30.26:252][880]LogSavePackage: Save=83.45ms
+[2018.01.27-16.30.26:252][880]LogSavePackage: Moving '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/ThirdPersonCharacter_Auto55D79F01044552CEE103D54986AD63FF9.tmp' to '../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto5.uasset'
+[2018.01.27-16.30.26:254][880]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/PC9/Documents/GitHub/ProjectX/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto5.uasset
+[2018.01.27-16.30.26:254][880]LogFileHelpers: Auto-saving content packages took 0.132
+[2018.01.27-16.30.59:328][285]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2018.01.27-16.31.01:058][380]LogEditorViewport: Clicking on Actor (LMB): IC_Char_C (IC_Char)
+[2018.01.27-16.31.04:892][640]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-16.31.04:910][640]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-16.31.04:910][640]PIE: New page: PIE session: Arena (Jan 28, 2018, 8:31:04 AM)
+[2018.01.27-16.31.04:920][640]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Arena
+[2018.01.27-16.31.04:940][640]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020284s)
+[2018.01.27-16.31.04:941][640]LogAIModule: Creating AISystem for world Arena
+[2018.01.27-16.31.04:942][640]LogPlayLevel: PIE: World Init took: (0.001586s)
+[2018.01.27-16.31.04:942][640]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Arena.Arena to /Game/Level/UEDPIE_0_Arena.Arena (0.022361s)
+[2018.01.27-16.31.05:002][640]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.27-16.31.05:008][640]LogWorld: Bringing World /Game/Level/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2018.01.28-00.31.05
+[2018.01.27-16.31.05:009][640]LogWorld: Bringing up level for play took: 0.006132
+[2018.01.27-16.31.05:012][640]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Arena -0.181
+[2018.01.27-16.31.05:887][706]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.31.06:891][775]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.31.07:925][837]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.31.08:931][911]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.31.09:947][996]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.31.10:954][ 86]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.31.11:961][171]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.31.19:721][735]LogEditorViewport: Clicking on Actor (LMB): IC_Char_C (IC_Char)
+[2018.01.27-16.31.22:740][942]Cmd: SELECT NONE
+[2018.01.27-16.31.25:099][106]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.01.27-16.31.45:728][614]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.01.27-16.31.47:858][705]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-16.31.47:884][705]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-16.31.47:884][705]PIE: New page: PIE session: Arena (Jan 28, 2018, 8:31:47 AM)
+[2018.01.27-16.31.47:909][705]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Arena
+[2018.01.27-16.31.47:932][705]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023386s)
+[2018.01.27-16.31.47:935][705]LogAIModule: Creating AISystem for world Arena
+[2018.01.27-16.31.47:936][705]LogPlayLevel: PIE: World Init took: (0.003198s)
+[2018.01.27-16.31.47:936][705]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Arena.Arena to /Game/Level/UEDPIE_0_Arena.Arena (0.027043s)
+[2018.01.27-16.31.47:993][705]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.27-16.31.48:013][705]LogWorld: Bringing World /Game/Level/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2018.01.28-00.31.48
+[2018.01.27-16.31.48:014][705]LogWorld: Bringing up level for play took: 0.020306
+[2018.01.27-16.31.48:018][705]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Arena 0.825
+[2018.01.27-16.31.48:847][770]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.31.51:867][ 24]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.31.52:874][105]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.32.25:466][514]Cmd: SELECT NONE
+[2018.01.27-16.32.44:921][  8]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.01.27-16.33.16:960][875]BlueprintLog: New page: Compile DeceptorAI
+[2018.01.27-16.33.22:329][275]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-16.33.22:352][275]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-16.33.22:352][275]PIE: New page: PIE session: Arena (Jan 28, 2018, 8:33:22 AM)
+[2018.01.27-16.33.22:352][275]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Arena
+[2018.01.27-16.33.22:383][275]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030381s)
+[2018.01.27-16.33.22:385][275]LogAIModule: Creating AISystem for world Arena
+[2018.01.27-16.33.22:386][275]LogPlayLevel: PIE: World Init took: (0.002260s)
+[2018.01.27-16.33.22:386][275]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Arena.Arena to /Game/Level/UEDPIE_0_Arena.Arena (0.033112s)
+[2018.01.27-16.33.22:453][275]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.27-16.33.22:465][275]LogWorld: Bringing World /Game/Level/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2018.01.28-00.33.22
+[2018.01.27-16.33.22:466][275]LogWorld: Bringing up level for play took: 0.012766
+[2018.01.27-16.33.22:469][275]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Arena -0.724
+[2018.01.27-16.33.23:320][340]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.33.24:329][424]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.33.29:265][800]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.01.27-16.33.52:148][904]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.01.27-16.33.55:508][180]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.01.27-16.33.57:346][279]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-16.33.57:373][279]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-16.33.57:373][279]PIE: New page: PIE session: Arena (Jan 28, 2018, 8:33:57 AM)
+[2018.01.27-16.33.57:374][279]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Arena
+[2018.01.27-16.33.57:391][279]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017159s)
+[2018.01.27-16.33.57:392][279]LogAIModule: Creating AISystem for world Arena
+[2018.01.27-16.33.57:392][279]LogPlayLevel: PIE: World Init took: (0.001134s)
+[2018.01.27-16.33.57:392][279]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Arena.Arena to /Game/Level/UEDPIE_0_Arena.Arena (0.018800s)
+[2018.01.27-16.33.57:450][279]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.27-16.33.57:456][279]LogWorld: Bringing World /Game/Level/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2018.01.28-00.33.57
+[2018.01.27-16.33.57:458][279]LogWorld: Bringing up level for play took: 0.006795
+[2018.01.27-16.33.57:461][279]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Arena 0.269
+[2018.01.27-16.33.58:340][346]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.34.18:821][ 14]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.01.27-16.34.20:631][129]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-16.34.20:653][129]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-16.34.20:653][129]PIE: New page: PIE session: Arena (Jan 28, 2018, 8:34:20 AM)
+[2018.01.27-16.34.20:678][129]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Arena
+[2018.01.27-16.34.20:700][129]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022031s)
+[2018.01.27-16.34.20:702][129]LogAIModule: Creating AISystem for world Arena
+[2018.01.27-16.34.20:702][129]LogPlayLevel: PIE: World Init took: (0.002092s)
+[2018.01.27-16.34.20:702][129]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Arena.Arena to /Game/Level/UEDPIE_0_Arena.Arena (0.024576s)
+[2018.01.27-16.34.20:762][129]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.27-16.34.20:768][129]LogWorld: Bringing World /Game/Level/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2018.01.28-00.34.20
+[2018.01.27-16.34.20:769][129]LogWorld: Bringing up level for play took: 0.006415
+[2018.01.27-16.34.20:772][129]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Arena -0.42
+[2018.01.27-16.34.21:623][197]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.34.23:830][361]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PCB13)
+[2018.01.27-16.34.24:126][367]LogEditorViewport: Clicking on Actor (LMB): IC_Char_C (IC_Char)
+[2018.01.27-16.35.20:933][289]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.01.27-16.35.21:475][290]LogMaterial: Missing cached shader map for material Material_1, compiling. 
+[2018.01.27-16.35.21:649][291]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2018.01.27-16.35.21:777][292]LogMaterial: Missing cached shader map for material Material_3, compiling. 
+[2018.01.27-16.35.21:937][293]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2018.01.27-16.35.22:088][294]LogMaterial: Missing cached shader map for material Material_5, compiling. 
+[2018.01.27-16.35.22:284][295]LogMaterial: Missing cached shader map for material Material_6, compiling. 
+[2018.01.27-16.35.22:585][297]LogMaterial: Missing cached shader map for material Material_7, compiling. 
+[2018.01.27-16.35.22:717][298]LogMaterial: Missing cached shader map for material Material_8, compiling. 
+[2018.01.27-16.35.23:214][300]LogMaterial: Missing cached shader map for material Material_9, compiling. 
+[2018.01.27-16.35.23:309][301]LogMaterial: Missing cached shader map for material Material_10, compiling. 
+[2018.01.27-16.35.23:490][302]LogMaterial: Missing cached shader map for material Material_11, compiling. 
+[2018.01.27-16.35.53:047][ 36]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.01.27-16.35.55:163][ 75]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-16.35.55:203][ 75]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-16.35.55:203][ 75]PIE: New page: PIE session: Arena (Jan 28, 2018, 8:35:55 AM)
+[2018.01.27-16.35.55:203][ 75]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Arena
+[2018.01.27-16.35.55:254][ 75]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050973s)
+[2018.01.27-16.35.55:258][ 75]LogAIModule: Creating AISystem for world Arena
+[2018.01.27-16.35.55:258][ 75]LogPlayLevel: PIE: World Init took: (0.003036s)
+[2018.01.27-16.35.55:258][ 75]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Arena.Arena to /Game/Level/UEDPIE_0_Arena.Arena (0.055427s)
+[2018.01.27-16.35.55:334][ 75]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.27-16.35.55:340][ 75]LogWorld: Bringing World /Game/Level/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2018.01.28-00.35.55
+[2018.01.27-16.35.55:341][ 75]LogWorld: Bringing up level for play took: 0.006592
+[2018.01.27-16.35.55:344][ 75]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Arena 0.151
+[2018.01.27-16.35.56:114][104]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.35.57:152][152]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.35.58:182][198]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.35.59:188][249]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.36.00:194][285]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.36.01:213][328]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.36.02:244][365]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.36.03:249][405]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.36.04:299][452]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.36.05:307][500]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.36.06:332][544]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.36.07:335][597]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.36.11:947][633]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.36.12:978][689]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.36.13:978][746]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.36.14:989][793]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.36.15:989][841]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.36.17:028][894]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.36.18:030][939]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.36.47:891][ 95]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.01.27-16.36.49:691][146]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-16.37.11:014][146]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-16.37.11:015][146]PIE: New page: PIE session: Arena (Jan 28, 2018, 8:37:11 AM)
+[2018.01.27-16.37.11:039][146]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Arena
+[2018.01.27-16.37.11:103][146]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064317s)
+[2018.01.27-16.37.11:104][146]LogAIModule: Creating AISystem for world Arena
+[2018.01.27-16.37.11:105][146]LogPlayLevel: PIE: World Init took: (0.002307s)
+[2018.01.27-16.37.11:106][146]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Arena.Arena to /Game/Level/UEDPIE_0_Arena.Arena (0.067126s)
+[2018.01.27-16.37.16:988][146]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.27-16.37.16:994][146]LogWorld: Bringing World /Game/Level/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2018.01.28-00.37.16
+[2018.01.27-16.37.16:995][146]LogWorld: Bringing up level for play took: 0.006798
+[2018.01.27-16.37.16:998][146]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Arena 5.806
+[2018.01.27-16.37.17:516][182]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.37.18:518][232]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.37.19:520][301]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.37.20:587][362]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.37.21:586][415]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.37.22:589][487]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.37.23:600][539]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.37.24:625][599]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.37.25:647][658]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.37.26:650][709]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.37.37:564][735]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.37.38:565][781]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.37.39:111][805]LogCharacterMovement: FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-228.92 Y=-187.24 Z=0.00 Location: X=-1970.37 Y=-118.38 Z=118.15 Normal: X=-0.92 Y=-0.39 Z=-0.00 PenetrationDepth:21.603 Actor:ThirdPersonCharacter_62 Component:StaticMesh BoneName:None (0 other events since notify)
+[2018.01.27-16.37.39:583][838]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.37.40:640][899]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.37.41:647][950]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.37.42:652][  3]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.37.43:656][ 53]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.37.44:663][118]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.37.45:666][179]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.37.46:670][226]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.37.47:699][262]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.37.48:730][306]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.37.49:771][337]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.38.01:211][356]Cmd: SELECT NONE
+[2018.01.27-16.38.11:694][505]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-16.38.17:512][505]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-16.38.17:513][505]PIE: New page: PIE session: Arena (Jan 28, 2018, 8:38:17 AM)
+[2018.01.27-16.38.17:525][505]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Arena
+[2018.01.27-16.38.17:565][505]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040418s)
+[2018.01.27-16.38.17:567][505]LogAIModule: Creating AISystem for world Arena
+[2018.01.27-16.38.17:567][505]LogPlayLevel: PIE: World Init took: (0.001997s)
+[2018.01.27-16.38.17:567][505]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Arena.Arena to /Game/Level/UEDPIE_0_Arena.Arena (0.042854s)
+[2018.01.27-16.38.17:640][505]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.27-16.38.17:646][505]LogWorld: Bringing World /Game/Level/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2018.01.28-00.38.17
+[2018.01.27-16.38.17:647][505]LogWorld: Bringing up level for play took: 0.006860
+[2018.01.27-16.38.17:650][505]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Arena 0.457
+[2018.01.27-16.38.18:249][545]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.38.19:258][607]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.38.20:268][664]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.38.21:271][727]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.38.22:289][779]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.38.23:290][812]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.38.24:293][856]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0.0
+[2018.01.27-16.38.50:085][783]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.01.27-16.38.51:542][803]BlueprintLog: New page: Compile ThirdPersonCharacter
